@@ -630,5 +630,2637 @@
     "kana": "よっつ",
     "romaji": "Yottsu",
     "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "This one, please",
+    "ja": "これをお願いします。",
+    "kana": "これを おねがいします。",
+    "romaji": "Kore o onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "I speak only a little Japanese",
+    "ja": "日本語は少しだけ話せます。",
+    "kana": "にほんごは すこしだけ はなせます。",
+    "romaji": "Nihongo wa sukoshi dake hanasemasu.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "That's okay / No thank you, depending on context",
+    "ja": "大丈夫です。",
+    "kana": "だいじょうぶです。",
+    "romaji": "Daijoubu desu.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "Understood",
+    "ja": "分かりました。",
+    "kana": "わかりました。",
+    "romaji": "Wakarimashita.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "This",
+    "ja": "これ",
+    "kana": "これ",
+    "romaji": "Kore",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "That (near listener)",
+    "ja": "それ",
+    "kana": "それ",
+    "romaji": "Sore",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "That over there",
+    "ja": "あれ",
+    "kana": "あれ",
+    "romaji": "Are",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "This way / This one (polite)",
+    "ja": "こちら",
+    "kana": "こちら",
+    "romaji": "Kochira",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "Where",
+    "ja": "どこ",
+    "kana": "どこ",
+    "romaji": "Doko",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "When",
+    "ja": "いつ",
+    "kana": "いつ",
+    "romaji": "Itsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "What",
+    "ja": "何",
+    "kana": "なに / なん",
+    "romaji": "Nani / Nan",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "How much",
+    "ja": "いくら",
+    "kana": "いくら",
+    "romaji": "Ikura",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "Exists / Available",
+    "ja": "あります",
+    "kana": "あります",
+    "romaji": "Arimasu",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "Not available",
+    "ja": "ありません",
+    "kana": "ありません",
+    "romaji": "Arimasen",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "Necessary",
+    "ja": "必要",
+    "kana": "ひつよう",
+    "romaji": "Hitsuyou",
+    "type": "vocab"
+  },
+  {
+    "category": "Essentials",
+    "en": "Unnecessary",
+    "ja": "不要",
+    "kana": "ふよう",
+    "romaji": "Fuyou",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Until what time?",
+    "ja": "何時までですか？",
+    "kana": "なんじまでですか？",
+    "romaji": "Nanji made desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "About how many minutes will it take?",
+    "ja": "何分ぐらいかかりますか？",
+    "kana": "なんぷんぐらい かかりますか？",
+    "romaji": "Nanpun gurai kakarimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Today",
+    "ja": "今日",
+    "kana": "きょう",
+    "romaji": "Kyou",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Tomorrow",
+    "ja": "明日",
+    "kana": "あした",
+    "romaji": "Ashita",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Yesterday",
+    "ja": "昨日",
+    "kana": "きのう",
+    "romaji": "Kinou",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Day after tomorrow",
+    "ja": "明後日",
+    "kana": "あさって",
+    "romaji": "Asatte",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "This week",
+    "ja": "今週",
+    "kana": "こんしゅう",
+    "romaji": "Konshuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Next week",
+    "ja": "来週",
+    "kana": "らいしゅう",
+    "romaji": "Raishuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Weekday",
+    "ja": "平日",
+    "kana": "へいじつ",
+    "romaji": "Heijitsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Weekend",
+    "ja": "週末",
+    "kana": "しゅうまつ",
+    "romaji": "Shuumatsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Public holiday",
+    "ja": "祝日",
+    "kana": "しゅくじつ",
+    "romaji": "Shukujitsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Numbers & Time",
+    "en": "Regular closing day",
+    "ja": "定休日",
+    "kana": "ていきゅうび",
+    "romaji": "Teikyuubi",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Do you have this in medium?",
+    "ja": "これのMサイズはありますか？",
+    "kana": "これの エムサイズは ありますか？",
+    "romaji": "Kore no emu saizu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Do you have other colours?",
+    "ja": "他の色はありますか？",
+    "kana": "ほかの いろは ありますか？",
+    "romaji": "Hoka no iro wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Is this product in stock?",
+    "ja": "この商品の在庫はありますか？",
+    "kana": "この しょうひんの ざいこは ありますか？",
+    "romaji": "Kono shouhin no zaiko wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Can these be hemmed?",
+    "ja": "裾上げはできますか？",
+    "kana": "すそあげは できますか？",
+    "romaji": "Susoage wa dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Can I try on size 24 cm? (shoes)",
+    "ja": "二十四センチを試着できますか？",
+    "kana": "にじゅうよんセンチを しちゃくできますか？",
+    "romaji": "Nijuu-yon senchi o shichaku dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Are you looking for anything?",
+    "ja": "何かお探しですか？",
+    "kana": "なにか おさがしですか？",
+    "romaji": "Nanika osagashi desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "How is the fit?",
+    "ja": "サイズはいかがですか？",
+    "kana": "サイズは いかがですか？",
+    "romaji": "Saizu wa ikaga desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Fitting room",
+    "ja": "試着室",
+    "kana": "しちゃくしつ",
+    "romaji": "Shichakushitsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Stock",
+    "ja": "在庫",
+    "kana": "ざいこ",
+    "romaji": "Zaiko",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Garment length",
+    "ja": "丈",
+    "kana": "たけ",
+    "romaji": "Take",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Hemming",
+    "ja": "裾上げ",
+    "kana": "すそあげ",
+    "romaji": "Susoage",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Trousers",
+    "ja": "パンツ",
+    "kana": "パンツ",
+    "romaji": "Pantsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Skirt",
+    "ja": "スカート",
+    "kana": "スカート",
+    "romaji": "Sukaato",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Dress",
+    "ja": "ワンピース",
+    "kana": "ワンピース",
+    "romaji": "Wanpiisu",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Blouse",
+    "ja": "ブラウス",
+    "kana": "ブラウス",
+    "romaji": "Burausu",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Shoes",
+    "ja": "靴",
+    "kana": "くつ",
+    "romaji": "Kutsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Sneakers",
+    "ja": "スニーカー",
+    "kana": "スニーカー",
+    "romaji": "Suniikaa",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Wide fit",
+    "ja": "幅広",
+    "kana": "はばひろ",
+    "romaji": "Habahiro",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Tight",
+    "ja": "きつい",
+    "kana": "きつい",
+    "romaji": "Kitsui",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Loose",
+    "ja": "ゆるい",
+    "kana": "ゆるい",
+    "romaji": "Yurui",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Women's",
+    "ja": "レディース",
+    "kana": "レディース",
+    "romaji": "Rediisu",
+    "type": "vocab"
+  },
+  {
+    "category": "Clothing & Shoes",
+    "en": "Reduced price",
+    "ja": "値下げ",
+    "kana": "ねさげ",
+    "romaji": "Nesage",
+    "type": "vocab"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Please heat this",
+    "ja": "これを温めてください。",
+    "kana": "これを あたためてください。",
+    "romaji": "Kore o atatamete kudasai.",
+    "type": "say"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "One bag, please",
+    "ja": "袋を一枚お願いします。",
+    "kana": "ふくろを いちまい おねがいします。",
+    "romaji": "Fukuro o ichimai onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "I don't need a bag",
+    "ja": "袋はいりません。",
+    "kana": "ふくろは いりません。",
+    "romaji": "Fukuro wa irimasen.",
+    "type": "say"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Two pairs of chopsticks, please",
+    "ja": "お箸を二膳ください。",
+    "kana": "おはしを にぜん ください。",
+    "romaji": "Ohashi o nizen kudasai.",
+    "type": "say"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "By card, please",
+    "ja": "カードでお願いします。",
+    "kana": "カードで おねがいします。",
+    "romaji": "Kaado de onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "May I eat here?",
+    "ja": "ここで食べてもいいですか？",
+    "kana": "ここで たべても いいですか？",
+    "romaji": "Koko de tabete mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Heat it up?",
+    "ja": "温めますか？",
+    "kana": "あたためますか？",
+    "romaji": "Atatamemasu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Would you like a bag?",
+    "ja": "袋はご利用ですか？",
+    "kana": "ふくろは ごりようですか？",
+    "romaji": "Fukuro wa goriyou desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Chopsticks?",
+    "ja": "お箸はお付けしますか？",
+    "kana": "おはしは おつけしますか？",
+    "romaji": "Ohashi wa otsuke shimasu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Do you have a loyalty card?",
+    "ja": "ポイントカードはお持ちですか？",
+    "kana": "ポイントカードは おもちですか？",
+    "romaji": "Pointo kaado wa omochi desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Payment method?",
+    "ja": "お支払い方法は？",
+    "kana": "おしはらいほうほうは？",
+    "romaji": "Oshiharai houhou wa?",
+    "type": "staff"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Would you like a receipt?",
+    "ja": "レシートはご利用ですか？",
+    "kana": "レシートは ごりようですか？",
+    "romaji": "Reshiito wa goriyou desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Please confirm your age",
+    "ja": "年齢確認をお願いします。",
+    "kana": "ねんれいかくにんを おねがいします。",
+    "romaji": "Nenrei kakunin o onegaishimasu.",
+    "type": "staff"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Rice ball",
+    "ja": "おにぎり",
+    "kana": "おにぎり",
+    "romaji": "Onigiri",
+    "type": "vocab"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Bento",
+    "ja": "お弁当",
+    "kana": "おべんとう",
+    "romaji": "Obentou",
+    "type": "vocab"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Prepared dishes",
+    "ja": "お惣菜",
+    "kana": "おそうざい",
+    "romaji": "Osouzai",
+    "type": "vocab"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Unsweetened",
+    "ja": "無糖",
+    "kana": "むとう",
+    "romaji": "Mutou",
+    "type": "vocab"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Lightly sweetened",
+    "ja": "微糖",
+    "kana": "びとう",
+    "romaji": "Bitou",
+    "type": "vocab"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Use-by",
+    "ja": "消費期限",
+    "kana": "しょうひきげん",
+    "romaji": "Shouhi kigen",
+    "type": "vocab"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Best-before",
+    "ja": "賞味期限",
+    "kana": "しょうみきげん",
+    "romaji": "Shoumi kigen",
+    "type": "vocab"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Tax included",
+    "ja": "税込",
+    "kana": "ぜいこみ",
+    "romaji": "Zeikomi",
+    "type": "vocab"
+  },
+  {
+    "category": "Convenience Stores",
+    "en": "Before tax",
+    "ja": "税抜",
+    "kana": "ぜいぬき",
+    "romaji": "Zeinuki",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "What do you recommend?",
+    "ja": "おすすめは何ですか？",
+    "kana": "おすすめは なんですか？",
+    "romaji": "Osusume wa nan desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "The bill, please",
+    "ja": "お会計をお願いします。",
+    "kana": "おかいけいを おねがいします。",
+    "romaji": "Okaikei o onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Thank you for the meal",
+    "ja": "ごちそうさまでした。",
+    "kana": "ごちそうさまでした。",
+    "romaji": "Gochisousama deshita.",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "A polite greeting to the chef at the start",
+    "ja": "本日はよろしくお願いします。",
+    "kana": "ほんじつは よろしく おねがいします。",
+    "romaji": "Honjitsu wa yoroshiku onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "What fish is this?",
+    "ja": "これは何のお魚ですか？",
+    "kana": "これは なんの おさかなですか？",
+    "romaji": "Kore wa nan no osakana desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Can I eat it as it is?",
+    "ja": "そのまま食べてもいいですか？",
+    "kana": "そのまま たべても いいですか？",
+    "romaji": "Sono mama tabete mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "May I eat it with my hands?",
+    "ja": "手で食べてもいいですか？",
+    "kana": "てで たべても いいですか？",
+    "romaji": "Te de tabete mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "It's very delicious",
+    "ja": "とても美味しいです。",
+    "kana": "とても おいしいです。",
+    "romaji": "Totemo oishii desu.",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "It was a wonderful meal",
+    "ja": "素晴らしいお食事でした。",
+    "kana": "すばらしい おしょくじでした。",
+    "romaji": "Subarashii oshokuji deshita.",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "How many people?",
+    "ja": "何名様ですか？",
+    "kana": "なんめいさまですか？",
+    "romaji": "Nanmei-sama desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Do you have a reservation?",
+    "ja": "ご予約はございますか？",
+    "kana": "ごよやくは ございますか？",
+    "romaji": "Goyoyaku wa gozaimasu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Ready to order?",
+    "ja": "ご注文はお決まりですか？",
+    "kana": "ごちゅうもんは おきまりですか？",
+    "romaji": "Gochuumon wa okimari desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Would you like a drink?",
+    "ja": "お飲み物はいかがですか？",
+    "kana": "おのみものは いかがですか？",
+    "romaji": "Onomimono wa ikaga desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Please wait a moment",
+    "ja": "少々お待ちください。",
+    "kana": "しょうしょう おまちください。",
+    "romaji": "Shoushou omachi kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "This way to your seat",
+    "ja": "こちらのお席へどうぞ。",
+    "kana": "こちらの おせきへ どうぞ。",
+    "romaji": "Kochira no oseki e douzo.",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Please pay at the register",
+    "ja": "お会計はレジでお願いします。",
+    "kana": "おかいけいは レジで おねがいします。",
+    "romaji": "Okaikei wa reji de onegaishimasu.",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "This is medium-fatty tuna",
+    "ja": "こちらは中トロです。",
+    "kana": "こちらは ちゅうトロです。",
+    "romaji": "Kochira wa chuutoro desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Please eat without adding soy sauce",
+    "ja": "お醤油は付けずにどうぞ。",
+    "kana": "おしょうゆは つけずに どうぞ。",
+    "romaji": "Oshouyu wa tsukezu ni douzo.",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Please enjoy it as served",
+    "ja": "そのままお召し上がりください。",
+    "kana": "そのまま おめしあがりください。",
+    "romaji": "Sono mama omeshiagari kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Please eat it soon",
+    "ja": "お早めにどうぞ。",
+    "kana": "おはやめに どうぞ。",
+    "romaji": "Ohayame ni douzo.",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Is there anything you dislike or cannot eat?",
+    "ja": "苦手なものはございますか？",
+    "kana": "にがてな ものは ございますか？",
+    "romaji": "Nigate na mono wa gozaimasu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Tuna",
+    "ja": "鮪",
+    "kana": "まぐろ",
+    "romaji": "Maguro",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Fatty tuna",
+    "ja": "大トロ",
+    "kana": "おおトロ",
+    "romaji": "Ootoro",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Medium-fatty tuna",
+    "ja": "中トロ",
+    "kana": "ちゅうトロ",
+    "romaji": "Chuutoro",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Lean tuna",
+    "ja": "赤身",
+    "kana": "あかみ",
+    "romaji": "Akami",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Salmon",
+    "ja": "鮭 / サーモン",
+    "kana": "さけ / サーモン",
+    "romaji": "Sake / Saamon",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Scallop",
+    "ja": "帆立",
+    "kana": "ほたて",
+    "romaji": "Hotate",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Shrimp",
+    "ja": "海老",
+    "kana": "えび",
+    "romaji": "Ebi",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Crab",
+    "ja": "蟹",
+    "kana": "かに",
+    "romaji": "Kani",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Sea urchin",
+    "ja": "雲丹",
+    "kana": "うに",
+    "romaji": "Uni",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Freshwater eel",
+    "ja": "鰻",
+    "kana": "うなぎ",
+    "romaji": "Unagi",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Conger eel",
+    "ja": "穴子",
+    "kana": "あなご",
+    "romaji": "Anago",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Seared",
+    "ja": "炙り",
+    "kana": "あぶり",
+    "romaji": "Aburi",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Sliced raw seafood",
+    "ja": "刺身",
+    "kana": "さしみ",
+    "romaji": "Sashimi",
+    "type": "vocab"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Hand-pressed sushi",
+    "ja": "握り",
+    "kana": "にぎり",
+    "romaji": "Nigiri",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "One iced matcha latte, please",
+    "ja": "アイス抹茶ラテを一つお願いします。",
+    "kana": "アイスまっちゃラテを ひとつ おねがいします。",
+    "romaji": "Aisu matcha rate o hitotsu onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Two hot café lattes, please",
+    "ja": "ホットのカフェラテを二つお願いします。",
+    "kana": "ホットの カフェラテを ふたつ おねがいします。",
+    "romaji": "Hotto no kafe rate o futatsu onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "No sugar, please",
+    "ja": "砂糖なしでお願いします。",
+    "kana": "さとうなしで おねがいします。",
+    "romaji": "Satou nashi de onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Can I change to oat milk?",
+    "ja": "オーツミルクに変更できますか？",
+    "kana": "オーツミルクに へんこうできますか？",
+    "romaji": "Ootsu miruku ni henkou dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Can you make the matcha stronger?",
+    "ja": "抹茶を濃くできますか？",
+    "kana": "まっちゃを こくできますか？",
+    "romaji": "Matcha o koku dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Drinking here?",
+    "ja": "店内でお召し上がりですか？",
+    "kana": "てんないで おめしあがりですか？",
+    "romaji": "Tennai de omeshiagari desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Hot or iced?",
+    "ja": "ホットとアイス、どちらになさいますか？",
+    "kana": "ホットと アイス、どちらに なさいますか？",
+    "romaji": "Hotto to aisu, dochira ni nasaimasu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "What size?",
+    "ja": "サイズはいかがなさいますか？",
+    "kana": "サイズは いかがなさいますか？",
+    "romaji": "Saizu wa ikaga nasaimasu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "What sweetness level?",
+    "ja": "甘さはどうされますか？",
+    "kana": "あまさは どうされますか？",
+    "romaji": "Amasa wa dou saremasu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "May I have your name?",
+    "ja": "お名前を伺ってもよろしいですか？",
+    "kana": "おなまえを うかがっても よろしいですか？",
+    "romaji": "Onamae o ukagatte mo yoroshii desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Matcha",
+    "ja": "抹茶",
+    "kana": "まっちゃ",
+    "romaji": "Matcha",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Matcha latte",
+    "ja": "抹茶ラテ",
+    "kana": "まっちゃラテ",
+    "romaji": "Matcha rate",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Matcha with milk",
+    "ja": "抹茶オレ",
+    "kana": "まっちゃオレ",
+    "romaji": "Matcha ore",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Strong / Concentrated",
+    "ja": "濃い",
+    "kana": "こい",
+    "romaji": "Koi",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Light / Weak",
+    "ja": "薄い",
+    "kana": "うすい",
+    "romaji": "Usui",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Sweetness",
+    "ja": "甘さ",
+    "kana": "あまさ",
+    "romaji": "Amasa",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Less ice",
+    "ja": "氷少なめ",
+    "kana": "こおりすくなめ",
+    "romaji": "Koori sukuname",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Soy milk",
+    "ja": "豆乳",
+    "kana": "とうにゅう",
+    "romaji": "Tounyuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Cow's milk",
+    "ja": "牛乳",
+    "kana": "ぎゅうにゅう",
+    "romaji": "Gyuunyuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Uji matcha",
+    "ja": "宇治抹茶",
+    "kana": "うじまっちゃ",
+    "romaji": "Uji matcha",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "First-harvest tea",
+    "ja": "一番茶",
+    "kana": "いちばんちゃ",
+    "romaji": "Ichibancha",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha & Cafés",
+    "en": "Stone-milled",
+    "ja": "石臼挽き",
+    "kana": "いしうすびき",
+    "romaji": "Ishi-usubiki",
+    "type": "vocab"
+  },
+  {
+    "category": "Matcha Shopping",
+    "en": "I'm looking for matcha for drinking",
+    "ja": "飲むための抹茶を探しています。",
+    "kana": "のむための まっちゃを さがしています。",
+    "romaji": "Nomu tame no matcha o sagashite imasu.",
+    "type": "say"
+  },
+  {
+    "category": "Matcha Shopping",
+    "en": "Which would you recommend for matcha lattes?",
+    "ja": "抹茶ラテにおすすめはどれですか？",
+    "kana": "まっちゃラテに おすすめは どれですか？",
+    "romaji": "Matcha rate ni osusume wa dore desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Matcha Shopping",
+    "en": "Do you have one that's less bitter?",
+    "ja": "苦味が少ないものはありますか？",
+    "kana": "にがみが すくないものは ありますか？",
+    "romaji": "Nigami ga sukunai mono wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Matcha Shopping",
+    "en": "Where is this grown?",
+    "ja": "こちらの産地はどこですか？",
+    "kana": "こちらの さんちは どこですか？",
+    "romaji": "Kochira no sanchi wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Matcha Shopping",
+    "en": "How should I store it after opening?",
+    "ja": "開封後はどう保存すればいいですか？",
+    "kana": "かいふうごは どう ほぞんすれば いいですか？",
+    "romaji": "Kaifuugo wa dou hozon sureba ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Matcha Shopping",
+    "en": "Can I sample it?",
+    "ja": "試飲できますか？",
+    "kana": "しいんできますか？",
+    "romaji": "Shiin dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "One of these, please",
+    "ja": "これを一つください。",
+    "kana": "これを ひとつ ください。",
+    "romaji": "Kore o hitotsu kudasai.",
+    "type": "say"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Four of these, please",
+    "ja": "これを四つお願いします。",
+    "kana": "これを よっつ おねがいします。",
+    "romaji": "Kore o yottsu onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Is this raw?",
+    "ja": "これは生ですか？",
+    "kana": "これは なまですか？",
+    "romaji": "Kore wa nama desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Is this grilled/cooked?",
+    "ja": "これは焼いてありますか？",
+    "kana": "これは やいてありますか？",
+    "romaji": "Kore wa yaite arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Where should I throw away the rubbish?",
+    "ja": "ゴミはどこに捨てればいいですか？",
+    "kana": "ゴミは どこに すてれば いいですか？",
+    "romaji": "Gomi wa doko ni sutereba ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "How many pieces?",
+    "ja": "何個にしますか？",
+    "kana": "なんこに しますか？",
+    "romaji": "Nanko ni shimasu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Please eat here",
+    "ja": "こちらでお召し上がりください。",
+    "kana": "こちらで おめしあがりください。",
+    "romaji": "Kochira de omeshiagari kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Please refrain from walking while eating",
+    "ja": "食べ歩きはご遠慮ください。",
+    "kana": "たべあるきは ごえんりょください。",
+    "romaji": "Tabearuki wa goenryo kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Please wait until it's finished grilling",
+    "ja": "焼き上がるまで少々お待ちください。",
+    "kana": "やきあがるまで しょうしょう おまちください。",
+    "romaji": "Yakiagaru made shoushou omachi kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Sold out today",
+    "ja": "本日は売り切れです。",
+    "kana": "ほんじつは うりきれです。",
+    "romaji": "Honjitsu wa urikire desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Cash only",
+    "ja": "現金のみです。",
+    "kana": "げんきんのみです。",
+    "romaji": "Genkin nomi desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Grilled skewers",
+    "ja": "串焼き",
+    "kana": "くしやき",
+    "romaji": "Kushiyaki",
+    "type": "vocab"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Japanese omelette",
+    "ja": "玉子焼き",
+    "kana": "たまごやき",
+    "romaji": "Tamagoyaki",
+    "type": "vocab"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Seafood rice bowl",
+    "ja": "海鮮丼",
+    "kana": "かいせんどん",
+    "romaji": "Kaisendon",
+    "type": "vocab"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Wagyu beef",
+    "ja": "和牛",
+    "kana": "わぎゅう",
+    "romaji": "Wagyuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Freshly grilled/baked",
+    "ja": "焼きたて",
+    "kana": "やきたて",
+    "romaji": "Yakitate",
+    "type": "vocab"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Freshly fried",
+    "ja": "揚げたて",
+    "kana": "あげたて",
+    "romaji": "Agetate",
+    "type": "vocab"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "One skewer",
+    "ja": "一串",
+    "kana": "ひとくし",
+    "romaji": "Hitokushi",
+    "type": "vocab"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "One piece",
+    "ja": "一個",
+    "kana": "いっこ",
+    "romaji": "Ikko",
+    "type": "vocab"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "Queue",
+    "ja": "行列",
+    "kana": "ぎょうれつ",
+    "romaji": "Gyouretsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Tsukiji & Street Food",
+    "en": "End of queue",
+    "ja": "最後尾",
+    "kana": "さいこうび",
+    "romaji": "Saikoubi",
+    "type": "vocab"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "I'm looking for One Piece cards",
+    "ja": "ワンピースカードを探しています。",
+    "kana": "ワンピースカードを さがしています。",
+    "romaji": "Wan Piisu kaado o sagashite imasu.",
+    "type": "say"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "Where are the single cards?",
+    "ja": "シングルカードはどこですか？",
+    "kana": "シングルカードは どこですか？",
+    "romaji": "Shinguru kaado wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "Do you have this card in stock?",
+    "ja": "このカードの在庫はありますか？",
+    "kana": "この カードの ざいこは ありますか？",
+    "romaji": "Kono kaado no zaiko wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "Do you have the parallel version?",
+    "ja": "パラレル版はありますか？",
+    "kana": "パラレルばんは ありますか？",
+    "romaji": "Parareru-ban wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "May I inspect the back of the card?",
+    "ja": "カードの裏面を確認できますか？",
+    "kana": "カードの うらめんを かくにんできますか？",
+    "romaji": "Kaado no uramen o kakunin dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "Is there edge whitening or damage?",
+    "ja": "白かけや傷はありますか？",
+    "kana": "しろかけや きずは ありますか？",
+    "romaji": "Shirokake ya kizu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "Do you have sealed boxes?",
+    "ja": "未開封のボックスはありますか？",
+    "kana": "みかいふうの ボックスは ありますか？",
+    "romaji": "Mikaifuu no bokkusu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "How many boxes can one person buy?",
+    "ja": "一人何箱まで買えますか？",
+    "kana": "ひとり なんはこまで かえますか？",
+    "romaji": "Hitori nanbako made kaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "This item has damage",
+    "ja": "こちらは傷あり商品です。",
+    "kana": "こちらは きずありしょうひんです。",
+    "romaji": "Kochira wa kizu ari shouhin desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "This is sold as a play-condition card",
+    "ja": "こちらはプレイ用です。",
+    "kana": "こちらは プレイようです。",
+    "romaji": "Kochira wa purei-you desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "One item per person",
+    "ja": "お一人様一点までです。",
+    "kana": "おひとりさま いってんまでです。",
+    "romaji": "Ohitori-sama itten made desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "This is sold by lottery",
+    "ja": "こちらは抽選販売です。",
+    "kana": "こちらは ちゅうせんはんばいです。",
+    "romaji": "Kochira wa chuusen hanbai desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "We'll remove the shrink wrap",
+    "ja": "シュリンクは外します。",
+    "kana": "シュリンクは はずします。",
+    "romaji": "Shurinku wa hazushimasu.",
+    "type": "staff"
+  },
+  {
+    "category": "Trading Cards",
+    "en": "No returns or exchanges",
+    "ja": "返品・交換はできません。",
+    "kana": "へんぴん・こうかんは できません。",
+    "romaji": "Henpin koukan wa dekimasen.",
+    "type": "staff"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Where are the Bioré sunscreens?",
+    "ja": "ビオレの日焼け止めはどこですか？",
+    "kana": "ビオレの ひやけどめは どこですか？",
+    "romaji": "Biore no hiyakedome wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "I'm looking for Hada Labo lotion/toner",
+    "ja": "肌ラボの化粧水を探しています。",
+    "kana": "はだラボの けしょうすいを さがしています。",
+    "romaji": "Hada Rabo no keshousui o sagashite imasu.",
+    "type": "say"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Do you have one for sensitive skin?",
+    "ja": "敏感肌用はありますか？",
+    "kana": "びんかんはだようは ありますか？",
+    "romaji": "Binkan hada-you wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Can this also be used on the face?",
+    "ja": "これは顔にも使えますか？",
+    "kana": "これは かおにも つかえますか？",
+    "romaji": "Kore wa kao ni mo tsukaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Is there a tester?",
+    "ja": "テスターはありますか？",
+    "kana": "テスターは ありますか？",
+    "romaji": "Tesutaa wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Do you have the regular bottle rather than a refill?",
+    "ja": "詰め替え用ではないものはありますか？",
+    "kana": "つめかえようでは ないものは ありますか？",
+    "romaji": "Tsumekae-you dewa nai mono wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "What's the difference between these two?",
+    "ja": "この二つは何が違いますか？",
+    "kana": "この ふたつは なにが ちがいますか？",
+    "romaji": "Kono futatsu wa nani ga chigaimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "What type of product are you looking for?",
+    "ja": "どのような商品をお探しですか？",
+    "kana": "どのような しょうひんを おさがしですか？",
+    "romaji": "Dono you na shouhin o osagashi desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "This is a refill",
+    "ja": "こちらは詰め替え用です。",
+    "kana": "こちらは つめかえようです。",
+    "romaji": "Kochira wa tsumekae-you desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Limited quantity",
+    "ja": "こちらは数量限定です。",
+    "kana": "こちらは すうりょうげんていです。",
+    "romaji": "Kochira wa suuryou gentei desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Please test whether it suits your skin",
+    "ja": "お肌に合うかお試しください。",
+    "kana": "おはだに あうか おためしください。",
+    "romaji": "Ohada ni au ka otameshi kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Would you like tax-free shopping?",
+    "ja": "免税をご希望ですか？",
+    "kana": "めんぜいを ごきぼうですか？",
+    "romaji": "Menzei o gokibou desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Sunscreen",
+    "ja": "日焼け止め",
+    "kana": "ひやけどめ",
+    "romaji": "Hiyakedome",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Hydrating lotion / Toner",
+    "ja": "化粧水",
+    "kana": "けしょうすい",
+    "romaji": "Keshousui",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Emulsion",
+    "ja": "乳液",
+    "kana": "にゅうえき",
+    "romaji": "Nyuueki",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Serum",
+    "ja": "美容液",
+    "kana": "びようえき",
+    "romaji": "Biyoueki",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Facial cleanser",
+    "ja": "洗顔料",
+    "kana": "せんがんりょう",
+    "romaji": "Senganryou",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Makeup remover / Cleansing",
+    "ja": "クレンジング",
+    "kana": "クレンジング",
+    "romaji": "Kurenjingu",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Moisturizing",
+    "ja": "保湿",
+    "kana": "ほしつ",
+    "romaji": "Hoshitsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "High moisture",
+    "ja": "高保湿",
+    "kana": "こうほしつ",
+    "romaji": "Kouhoshitsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Sensitive skin",
+    "ja": "敏感肌",
+    "kana": "びんかんはだ",
+    "romaji": "Binkan hada",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Dry skin",
+    "ja": "乾燥肌",
+    "kana": "かんそうはだ",
+    "romaji": "Kansou hada",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Oily skin",
+    "ja": "脂性肌",
+    "kana": "しせいはだ",
+    "romaji": "Shisei hada",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Combination skin",
+    "ja": "混合肌",
+    "kana": "こんごうはだ",
+    "romaji": "Kongou hada",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Fragrance-free",
+    "ja": "無香料",
+    "kana": "むこうりょう",
+    "romaji": "Mukouryou",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "No added colour",
+    "ja": "無着色",
+    "kana": "むちゃくしょく",
+    "romaji": "Muchakushoku",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Alcohol-free",
+    "ja": "アルコールフリー",
+    "kana": "アルコールフリー",
+    "romaji": "Arukooru furii",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Refill",
+    "ja": "詰め替え用",
+    "kana": "つめかえよう",
+    "romaji": "Tsumekae-you",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Main bottle/unit",
+    "ja": "本体",
+    "kana": "ほんたい",
+    "romaji": "Hontai",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Quasi-drug category",
+    "ja": "医薬部外品",
+    "kana": "いやくぶがいひん",
+    "romaji": "Iyakubugaihin",
+    "type": "vocab"
+  },
+  {
+    "category": "Skincare & Cosmetics",
+    "en": "Expiry / Use-by period",
+    "ja": "使用期限",
+    "kana": "しようきげん",
+    "romaji": "Shiyou kigen",
+    "type": "vocab"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Do you sell ReFa hairdryers?",
+    "ja": "リファのドライヤーはありますか？",
+    "kana": "リファの ドライヤーは ありますか？",
+    "romaji": "Rifa no doraiyaa wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Can this model be used overseas?",
+    "ja": "このモデルは海外で使えますか？",
+    "kana": "この モデルは かいがいで つかえますか？",
+    "romaji": "Kono moderu wa kaigai de tsukaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Is it compatible with Australian voltage?",
+    "ja": "オーストラリアの電圧に対応していますか？",
+    "kana": "オーストラリアの でんあつに たいおうしていますか？",
+    "romaji": "Oosutoraria no den'atsu ni taiou shite imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Is the warranty valid overseas?",
+    "ja": "海外でも保証は有効ですか？",
+    "kana": "かいがいでも ほしょうは ゆうこうですか？",
+    "romaji": "Kaigai demo hoshou wa yuukou desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "What's the difference between these models?",
+    "ja": "このモデルとこちらの違いは何ですか？",
+    "kana": "この モデルと こちらの ちがいは なんですか？",
+    "romaji": "Kono moderu to kochira no chigai wa nan desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Voltage",
+    "ja": "電圧",
+    "kana": "でんあつ",
+    "romaji": "Den'atsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Overseas compatible",
+    "ja": "海外対応",
+    "kana": "かいがいたいおう",
+    "romaji": "Kaigai taiou",
+    "type": "vocab"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Domestic use only",
+    "ja": "国内専用",
+    "kana": "こくないせんよう",
+    "romaji": "Kokunai senyou",
+    "type": "vocab"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Warranty",
+    "ja": "保証",
+    "kana": "ほしょう",
+    "romaji": "Hoshou",
+    "type": "vocab"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Warranty certificate",
+    "ja": "保証書",
+    "kana": "ほしょうしょ",
+    "romaji": "Hoshousho",
+    "type": "vocab"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Voltage transformer",
+    "ja": "変圧器",
+    "kana": "へんあつき",
+    "romaji": "Hen'atsuki",
+    "type": "vocab"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Plug adapter",
+    "ja": "変換プラグ",
+    "kana": "へんかんプラグ",
+    "romaji": "Henkan puragu",
+    "type": "vocab"
+  },
+  {
+    "category": "Beauty Electronics",
+    "en": "Power consumption",
+    "ja": "消費電力",
+    "kana": "しょうひでんりょく",
+    "romaji": "Shouhi denryoku",
+    "type": "vocab"
+  },
+  {
+    "category": "Onsen",
+    "en": "Is day-use bathing available?",
+    "ja": "日帰り入浴はできますか？",
+    "kana": "ひがえりにゅうよくは できますか？",
+    "romaji": "Higaeri nyuuyoku wa dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Onsen",
+    "en": "Do you have a private bath?",
+    "ja": "貸切風呂はありますか？",
+    "kana": "かしきぶろは ありますか？",
+    "romaji": "Kashikiburo wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Onsen",
+    "en": "Can we rent towels?",
+    "ja": "タオルは借りられますか？",
+    "kana": "タオルは かりられますか？",
+    "romaji": "Taoru wa kariraremasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Onsen",
+    "en": "Until what time can we use the facilities?",
+    "ja": "何時まで利用できますか？",
+    "kana": "なんじまで りようできますか？",
+    "romaji": "Nanji made riyou dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Onsen",
+    "en": "Wash your body first",
+    "ja": "先に体を洗ってください。",
+    "kana": "さきに からだを あらってください。",
+    "romaji": "Saki ni karada o aratte kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Onsen",
+    "en": "Don't put towels in the bath",
+    "ja": "タオルは湯船に入れないでください。",
+    "kana": "タオルは ゆぶねに いれないでください。",
+    "romaji": "Taoru wa yubune ni irenaide kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Onsen",
+    "en": "Swimwear is prohibited",
+    "ja": "水着の着用は禁止です。",
+    "kana": "みずぎの ちゃくようは きんしです。",
+    "romaji": "Mizugi no chakuyou wa kinshi desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Onsen",
+    "en": "Please take your locker key",
+    "ja": "ロッカーの鍵をお持ちください。",
+    "kana": "ロッカーの かぎを おもちください。",
+    "romaji": "Rokkaa no kagi o omochi kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Onsen",
+    "en": "Last admission is at nine",
+    "ja": "最終受付は九時です。",
+    "kana": "さいしゅううけつけは くじです。",
+    "romaji": "Saishuu uketsuke wa kuji desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Onsen",
+    "en": "Men's bath",
+    "ja": "男湯",
+    "kana": "おとこゆ",
+    "romaji": "Otokoyu",
+    "type": "vocab"
+  },
+  {
+    "category": "Onsen",
+    "en": "Women's bath",
+    "ja": "女湯",
+    "kana": "おんなゆ",
+    "romaji": "Onnayu",
+    "type": "vocab"
+  },
+  {
+    "category": "Onsen",
+    "en": "Outdoor bath",
+    "ja": "露天風呂",
+    "kana": "ろてんぶろ",
+    "romaji": "Rotenburo",
+    "type": "vocab"
+  },
+  {
+    "category": "Onsen",
+    "en": "Indoor bath",
+    "ja": "内湯",
+    "kana": "うちゆ",
+    "romaji": "Uchiyu",
+    "type": "vocab"
+  },
+  {
+    "category": "Onsen",
+    "en": "Changing room",
+    "ja": "脱衣所",
+    "kana": "だついじょ",
+    "romaji": "Datsuijo",
+    "type": "vocab"
+  },
+  {
+    "category": "Onsen",
+    "en": "Private bath",
+    "ja": "貸切風呂",
+    "kana": "かしきぶろ",
+    "romaji": "Kashikiburo",
+    "type": "vocab"
+  },
+  {
+    "category": "Onsen",
+    "en": "Bathing prohibited",
+    "ja": "入浴禁止",
+    "kana": "にゅうよくきんし",
+    "romaji": "Nyuuyoku kinshi",
+    "type": "vocab"
+  },
+  {
+    "category": "Onsen",
+    "en": "Last admission",
+    "ja": "最終受付",
+    "kana": "さいしゅううけつけ",
+    "romaji": "Saishuu uketsuke",
+    "type": "vocab"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "What's the wait time for this attraction?",
+    "ja": "このアトラクションの待ち時間は何分ですか？",
+    "kana": "この アトラクションの まちじかんは なんぷんですか？",
+    "romaji": "Kono atorakushon no machijikan wa nanpun desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Is single rider available?",
+    "ja": "シングルライダーはありますか？",
+    "kana": "シングルライダーは ありますか？",
+    "romaji": "Shinguru raidaa wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Do we need a timed-entry ticket?",
+    "ja": "整理券は必要ですか？",
+    "kana": "せいりけんは ひつようですか？",
+    "romaji": "Seiriken wa hitsuyou desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Can we use this Express Pass?",
+    "ja": "このエクスプレス・パスは使えますか？",
+    "kana": "この エクスプレス・パスは つかえますか？",
+    "romaji": "Kono ekusupuresu pasu wa tsukaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Where should we leave our belongings?",
+    "ja": "荷物はどこに預けますか？",
+    "kana": "にもつは どこに あずけますか？",
+    "romaji": "Nimotsu wa doko ni azukemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Where is the entrance to Super Nintendo World?",
+    "ja": "スーパー・ニンテンドー・ワールドの入口はどこですか？",
+    "kana": "スーパー・ニンテンドー・ワールドの いりぐちは どこですか？",
+    "romaji": "Suupaa Nintendoo Waarudo no iriguchi wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Please queue here",
+    "ja": "こちらにお並びください。",
+    "kana": "こちらに おならびください。",
+    "romaji": "Kochira ni onarabi kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Please put your belongings in a locker",
+    "ja": "お荷物をロッカーにお預けください。",
+    "kana": "おにもつを ロッカーに おあずけください。",
+    "romaji": "Onimotsu o rokkaa ni oazuke kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Lower the safety bar",
+    "ja": "安全バーを下ろしてください。",
+    "kana": "あんぜんバーを おろしてください。",
+    "romaji": "Anzen baa o oroshite kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Fasten your seatbelt",
+    "ja": "シートベルトを締めてください。",
+    "kana": "シートベルトを しめてください。",
+    "romaji": "Shiito beruto o shimete kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "The attraction is not operating today",
+    "ja": "本日は運休しております。",
+    "kana": "ほんじつは うんきゅうしております。",
+    "romaji": "Honjitsu wa unkyuu shite orimasu.",
+    "type": "staff"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Please show this QR code",
+    "ja": "こちらのQRコードをご提示ください。",
+    "kana": "こちらの キューアールコードを ごていじください。",
+    "romaji": "Kochira no kyuu aaru koodo o goteiji kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Wait time",
+    "ja": "待ち時間",
+    "kana": "まちじかん",
+    "romaji": "Machijikan",
+    "type": "vocab"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Numbered/timed-entry ticket",
+    "ja": "整理券",
+    "kana": "せいりけん",
+    "romaji": "Seiriken",
+    "type": "vocab"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Entry",
+    "ja": "入場",
+    "kana": "にゅうじょう",
+    "romaji": "Nyuujou",
+    "type": "vocab"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Entry restriction",
+    "ja": "入場制限",
+    "kana": "にゅうじょうせいげん",
+    "romaji": "Nyuujou seigen",
+    "type": "vocab"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Height restriction",
+    "ja": "身長制限",
+    "kana": "しんちょうせいげん",
+    "romaji": "Shinchou seigen",
+    "type": "vocab"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Service suspended",
+    "ja": "運休",
+    "kana": "うんきゅう",
+    "romaji": "Unkyuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Temporarily suspended",
+    "ja": "休止中",
+    "kana": "きゅうしちゅう",
+    "romaji": "Kyuushichuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Boarding area",
+    "ja": "乗り場",
+    "kana": "のりば",
+    "romaji": "Noriba",
+    "type": "vocab"
+  },
+  {
+    "category": "Universal Studios Japan",
+    "en": "Exit/unloading area",
+    "ja": "降り場",
+    "kana": "おりば",
+    "romaji": "Oriba",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Where is the Shinkansen boarding area?",
+    "ja": "新幹線の乗り場はどこですか？",
+    "kana": "しんかんせんの のりばは どこですか？",
+    "romaji": "Shinkansen no noriba wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Does this train go to Kyoto?",
+    "ja": "この電車は京都に行きますか？",
+    "kana": "この でんしゃは きょうとに いきますか？",
+    "romaji": "Kono densha wa Kyouto ni ikimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Which platform does it depart from?",
+    "ja": "何番線から出発しますか？",
+    "kana": "なんばんせんから しゅっぱつしますか？",
+    "romaji": "Nanbansen kara shuppatsu shimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "I'd like to reserve a seat",
+    "ja": "指定席を予約したいです。",
+    "kana": "していせきを よやくしたいです。",
+    "romaji": "Shiteiseki o yoyaku shitai desu.",
+    "type": "say"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Can we reserve seats with oversized baggage space?",
+    "ja": "特大荷物スペース付き座席を予約できますか？",
+    "kana": "とくだいにもつスペースつきざせきを よやくできますか？",
+    "romaji": "Tokudai nimotsu supeesu-tsuki zaseki o yoyaku dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Can I change this ticket?",
+    "ja": "この切符を変更できますか？",
+    "kana": "この きっぷを へんこうできますか？",
+    "romaji": "Kono kippu o henkou dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "May I see your ticket?",
+    "ja": "乗車券を拝見します。",
+    "kana": "じょうしゃけんを はいけんします。",
+    "romaji": "Joushaken o haiken shimasu.",
+    "type": "staff"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "This is a reserved seat",
+    "ja": "こちらは指定席です。",
+    "kana": "こちらは していせきです。",
+    "romaji": "Kochira wa shiteiseki desu.",
+    "type": "staff"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Please take the next train",
+    "ja": "次の電車にお乗りください。",
+    "kana": "つぎの でんしゃに おのりください。",
+    "romaji": "Tsugi no densha ni onori kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Please transfer here",
+    "ja": "こちらでお乗り換えください。",
+    "kana": "こちらで おのりかえください。",
+    "romaji": "Kochira de onorikae kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "The train is delayed",
+    "ja": "電車が遅れております。",
+    "kana": "でんしゃが おくれております。",
+    "romaji": "Densha ga okurete orimasu.",
+    "type": "staff"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "The departure time has changed",
+    "ja": "発車時刻が変更になりました。",
+    "kana": "はっしゃじこくが へんこうに なりました。",
+    "romaji": "Hassha jikoku ga henkou ni narimashita.",
+    "type": "staff"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Bullet train",
+    "ja": "新幹線",
+    "kana": "しんかんせん",
+    "romaji": "Shinkansen",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Basic fare ticket",
+    "ja": "乗車券",
+    "kana": "じょうしゃけん",
+    "romaji": "Joushaken",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Limited express ticket",
+    "ja": "特急券",
+    "kana": "とっきゅうけん",
+    "romaji": "Tokkyuuken",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Car number",
+    "ja": "号車",
+    "kana": "ごうしゃ",
+    "romaji": "Gousha",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Platform/track number",
+    "ja": "番線",
+    "kana": "ばんせん",
+    "romaji": "Bansen",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Transfer",
+    "ja": "乗り換え",
+    "kana": "のりかえ",
+    "romaji": "Norikae",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Departure",
+    "ja": "出発",
+    "kana": "しゅっぱつ",
+    "romaji": "Shuppatsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Arrival",
+    "ja": "到着",
+    "kana": "とうちゃく",
+    "romaji": "Touchaku",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Delay",
+    "ja": "遅延",
+    "kana": "ちえん",
+    "romaji": "Chien",
+    "type": "vocab"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Oversized baggage",
+    "ja": "特大荷物",
+    "kana": "とくだいにもつ",
+    "romaji": "Tokudai nimotsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Could you keep it until the evening?",
+    "ja": "夕方まで預かっていただけますか？",
+    "kana": "ゆうがたまで あずかっていただけますか？",
+    "romaji": "Yuugata made azukatte itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "We have four suitcases",
+    "ja": "スーツケースが四つあります。",
+    "kana": "スーツケースが よっつ あります。",
+    "romaji": "Suutsukeesu ga yottsu arimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "How much is the storage fee?",
+    "ja": "預かり料金はいくらですか？",
+    "kana": "あずかりりょうきんは いくらですか？",
+    "romaji": "Azukari ryoukin wa ikura desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Where are the large coin lockers?",
+    "ja": "大型のコインロッカーはどこですか？",
+    "kana": "おおがたの コインロッカーは どこですか？",
+    "romaji": "Oogata no koin rokkaa wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Could we collect it around 8 pm?",
+    "ja": "夜の八時ごろに取りに来てもいいですか？",
+    "kana": "よるの はちじごろに とりにきても いいですか？",
+    "romaji": "Yoru no hachiji goro ni tori ni kite mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "If that's difficult, could you tell us about another storage location?",
+    "ja": "もし難しければ、他の預かり場所を教えていただけますか？",
+    "kana": "もし むずかしければ、ほかの あずかりばしょを おしえていただけますか？",
+    "romaji": "Moshi muzukashikereba, hoka no azukari basho o oshiete itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Around what time will you return?",
+    "ja": "何時ごろお戻りですか？",
+    "kana": "なんじごろ おもどりですか？",
+    "romaji": "Nanji goro omodori desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Please collect it the same day",
+    "ja": "当日中のお引き取りをお願いします。",
+    "kana": "とうじつちゅうの おひきとりを おねがいします。",
+    "romaji": "Toujitsuchuu no ohikitori o onegaishimasu.",
+    "type": "staff"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Fees vary by size",
+    "ja": "大きさによって料金が異なります。",
+    "kana": "おおきさによって りょうきんが ことなります。",
+    "romaji": "Ookisa ni yotte ryoukin ga kotonarimasu.",
+    "type": "staff"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "This locker isn't available",
+    "ja": "こちらのロッカーは空いていません。",
+    "kana": "こちらの ロッカーは あいていません。",
+    "romaji": "Kochira no rokkaa wa aite imasen.",
+    "type": "staff"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Some luggage cannot be stored",
+    "ja": "お預かりできないお荷物もございます。",
+    "kana": "おあずかりできない おにもつも ございます。",
+    "romaji": "Oazukari dekinai onimotsu mo gozaimasu.",
+    "type": "staff"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Please don't lose the claim ticket",
+    "ja": "引換券をなくさないでください。",
+    "kana": "ひきかえけんを なくさないでください。",
+    "romaji": "Hikikaeken o nakusanaide kudasai.",
+    "type": "staff"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Luggage",
+    "ja": "荷物",
+    "kana": "にもつ",
+    "romaji": "Nimotsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Hand luggage",
+    "ja": "手荷物",
+    "kana": "てにもつ",
+    "romaji": "Tenimotsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Temporary storage",
+    "ja": "一時預かり",
+    "kana": "いちじあずかり",
+    "romaji": "Ichiji azukari",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Coin locker",
+    "ja": "コインロッカー",
+    "kana": "コインロッカー",
+    "romaji": "Koin rokkaa",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Available",
+    "ja": "空き",
+    "kana": "あき",
+    "romaji": "Aki",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "In use",
+    "ja": "使用中",
+    "kana": "しようちゅう",
+    "romaji": "Shiyouchuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Fee",
+    "ja": "料金",
+    "kana": "りょうきん",
+    "romaji": "Ryoukin",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Non-refundable",
+    "ja": "返金不可",
+    "kana": "へんきんふか",
+    "romaji": "Henkin fuka",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Claim ticket",
+    "ja": "引換券",
+    "kana": "ひきかえけん",
+    "romaji": "Hikikaeken",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Within the same day",
+    "ja": "当日中",
+    "kana": "とうじつちゅう",
+    "romaji": "Toujitsuchuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Large-size",
+    "ja": "大型",
+    "kana": "おおがた",
+    "romaji": "Oogata",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Does this train go to Ueno?",
+    "ja": "この電車は上野に行きますか？",
+    "kana": "この でんしゃは うえのに いきますか？",
+    "romaji": "Kono densha wa Ueno ni ikimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "How do I get to Umeda Station?",
+    "ja": "梅田駅にはどう行けばいいですか？",
+    "kana": "うめだえきには どう いけば いいですか？",
+    "romaji": "Umeda-eki ni wa dou ikeba ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Which way is Nara Park?",
+    "ja": "奈良公園はどちらですか？",
+    "kana": "ならこうえんは どちらですか？",
+    "romaji": "Nara Kouen wa dochira desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Do we transfer here?",
+    "ja": "ここで乗り換えますか？",
+    "kana": "ここで のりかえますか？",
+    "romaji": "Koko de norikaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Is this the correct exit?",
+    "ja": "この出口で合っていますか？",
+    "kana": "この でぐちで あっていますか？",
+    "romaji": "Kono deguchi de atte imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Right",
+    "ja": "右",
+    "kana": "みぎ",
+    "romaji": "Migi",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Left",
+    "ja": "左",
+    "kana": "ひだり",
+    "romaji": "Hidari",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Straight ahead",
+    "ja": "まっすぐ",
+    "kana": "まっすぐ",
+    "romaji": "Massugu",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Nearby",
+    "ja": "近く",
+    "kana": "ちかく",
+    "romaji": "Chikaku",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Far",
+    "ja": "遠い",
+    "kana": "とおい",
+    "romaji": "Tooi",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "North exit",
+    "ja": "北口",
+    "kana": "きたぐち",
+    "romaji": "Kitaguchi",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "South exit",
+    "ja": "南口",
+    "kana": "みなみぐち",
+    "romaji": "Minamiguchi",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "East exit",
+    "ja": "東口",
+    "kana": "ひがしぐち",
+    "romaji": "Higashiguchi",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "West exit",
+    "ja": "西口",
+    "kana": "にしぐち",
+    "romaji": "Nishiguchi",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Underground",
+    "ja": "地下",
+    "kana": "ちか",
+    "romaji": "Chika",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Above ground",
+    "ja": "地上",
+    "kana": "ちじょう",
+    "romaji": "Chijou",
+    "type": "vocab"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "On foot",
+    "ja": "徒歩",
+    "kana": "とほ",
+    "romaji": "Toho",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Open for business",
+    "ja": "営業中",
+    "kana": "えいぎょうちゅう",
+    "romaji": "Eigyouchuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Not currently serving",
+    "ja": "準備中",
+    "kana": "じゅんびちゅう",
+    "romaji": "Junbichuu",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Closed / Business suspended",
+    "ja": "休業",
+    "kana": "きゅうぎょう",
+    "romaji": "Kyuugyou",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Fully seated",
+    "ja": "満席",
+    "kana": "まんせき",
+    "romaji": "Manseki",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Available seat",
+    "ja": "空席",
+    "kana": "くうせき",
+    "romaji": "Kuuseki",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Completely sold out",
+    "ja": "完売",
+    "kana": "かんばい",
+    "romaji": "Kanbai",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Limited",
+    "ja": "限定",
+    "kana": "げんてい",
+    "romaji": "Gentei",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Reservation required",
+    "ja": "予約制",
+    "kana": "よやくせい",
+    "romaji": "Yoyakusei",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Reception",
+    "ja": "受付",
+    "kana": "うけつけ",
+    "romaji": "Uketsuke",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Prohibited",
+    "ja": "禁止",
+    "kana": "きんし",
+    "romaji": "Kinshi",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "No entry",
+    "ja": "立入禁止",
+    "kana": "たちいりきんし",
+    "romaji": "Tachiiri kinshi",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Free",
+    "ja": "無料",
+    "kana": "むりょう",
+    "romaji": "Muryou",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Paid",
+    "ja": "有料",
+    "kana": "ゆうりょう",
+    "romaji": "Yuuryou",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Information / Guidance",
+    "ja": "ご案内",
+    "kana": "ごあんない",
+    "romaji": "Goannai",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Notice",
+    "ja": "お知らせ",
+    "kana": "おしらせ",
+    "romaji": "Oshirase",
+    "type": "vocab"
   }
 ]
