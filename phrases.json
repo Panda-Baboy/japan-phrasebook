@@ -1,0 +1,634 @@
+[
+  {
+    "category": "Essentials",
+    "en": "Excuse me / Sorry",
+    "ja": "すみません。",
+    "kana": "すみません。",
+    "romaji": "Sumimasen.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "Thank you very much",
+    "ja": "ありがとうございます。",
+    "kana": "ありがとうございます。",
+    "romaji": "Arigatō gozaimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "Please say that again",
+    "ja": "もう一度お願いします。",
+    "kana": "もういちど おねがいします。",
+    "romaji": "Mō ichido onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "Please speak a little more slowly",
+    "ja": "もう少しゆっくり話していただけますか？",
+    "kana": "もうすこし ゆっくり はなしていただけますか？",
+    "romaji": "Mō sukoshi yukkuri hanashite itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "I do not understand",
+    "ja": "分かりません。",
+    "kana": "わかりません。",
+    "romaji": "Wakarimasen.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "Do you speak English?",
+    "ja": "英語は話せますか？",
+    "kana": "えいごは はなせますか？",
+    "romaji": "Eigo wa hanasemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "One person, please",
+    "ja": "一人です。",
+    "kana": "ひとりです。",
+    "romaji": "Hitori desu.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "Two people, please",
+    "ja": "二人です。",
+    "kana": "ふたりです。",
+    "romaji": "Futari desu.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "Four people, please",
+    "ja": "四人です。",
+    "kana": "よにんです。",
+    "romaji": "Yonin desu.",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "How much is this?",
+    "ja": "これはいくらですか？",
+    "kana": "これは いくらですか？",
+    "romaji": "Kore wa ikura desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "Can I pay by card?",
+    "ja": "カードで払えますか？",
+    "kana": "カードで はらえますか？",
+    "romaji": "Kādo de haraemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Essentials",
+    "en": "Do you have an English menu?",
+    "ja": "英語のメニューはありますか？",
+    "kana": "えいごの メニューは ありますか？",
+    "romaji": "Eigo no menyū wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Two iced matcha lattes, please",
+    "ja": "アイス抹茶ラテを二つお願いします。",
+    "kana": "アイスまっちゃラテを ふたつ おねがいします。",
+    "romaji": "Aisu matcha rate o futatsu onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Can you make it less sweet?",
+    "ja": "甘さ控えめにできますか？",
+    "kana": "あまさ ひかえめに できますか？",
+    "romaji": "Amasa hikaeme ni dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Is this for takeaway? (staff)",
+    "ja": "お持ち帰りですか？",
+    "kana": "おもちかえりですか？",
+    "romaji": "Omochikaeri desu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "For here, please",
+    "ja": "店内でお願いします。",
+    "kana": "てんないで おねがいします。",
+    "romaji": "Tennai de onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "To take away, please",
+    "ja": "持ち帰りでお願いします。",
+    "kana": "もちかえりで おねがいします。",
+    "romaji": "Mochikaeri de onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Do you have any recommendations?",
+    "ja": "おすすめはありますか？",
+    "kana": "おすすめは ありますか？",
+    "romaji": "Osusume wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Is this spicy?",
+    "ja": "これは辛いですか？",
+    "kana": "これは からいですか？",
+    "romaji": "Kore wa karai desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "One of these, please",
+    "ja": "これを一つお願いします。",
+    "kana": "これを ひとつ おねがいします。",
+    "romaji": "Kore o hitotsu onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Two of these, please",
+    "ja": "これを二つお願いします。",
+    "kana": "これを ふたつ おねがいします。",
+    "romaji": "Kore o futatsu onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Is there a seat available?",
+    "ja": "席は空いていますか？",
+    "kana": "せきは あいていますか？",
+    "romaji": "Seki wa aite imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Do you have a reservation? (staff)",
+    "ja": "ご予約はありますか？",
+    "kana": "ごよやくは ありますか？",
+    "romaji": "Goyoyaku wa arimasu ka?",
+    "type": "staff"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "We have a reservation",
+    "ja": "予約しています。",
+    "kana": "よやくしています。",
+    "romaji": "Yoyaku shite imasu.",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Can I take a photo?",
+    "ja": "写真を撮ってもいいですか？",
+    "kana": "しゃしんを とっても いいですか？",
+    "romaji": "Shashin o totte mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Do you have this in another size?",
+    "ja": "これの別のサイズはありますか？",
+    "kana": "これの べつの サイズは ありますか？",
+    "romaji": "Kore no betsu no saizu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Can I try this on?",
+    "ja": "試着してもいいですか？",
+    "kana": "しちゃくしても いいですか？",
+    "romaji": "Shichaku shite mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Do you have a smaller size?",
+    "ja": "もう少し小さいサイズはありますか？",
+    "kana": "もうすこし ちいさい サイズは ありますか？",
+    "romaji": "Mō sukoshi chiisai saizu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Do you have a larger size?",
+    "ja": "もう少し大きいサイズはありますか？",
+    "kana": "もうすこし おおきい サイズは ありますか？",
+    "romaji": "Mō sukoshi ōkii saizu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Do you have this colour?",
+    "ja": "この色はありますか？",
+    "kana": "この いろは ありますか？",
+    "romaji": "Kono iro wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Can I buy this tax-free?",
+    "ja": "免税で買えますか？",
+    "kana": "めんぜいで かえますか？",
+    "romaji": "Menzei de kaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Just looking, thank you",
+    "ja": "見ているだけです。ありがとうございます。",
+    "kana": "みているだけです。ありがとうございます。",
+    "romaji": "Mite iru dake desu. Arigatō gozaimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Do you have this in stock?",
+    "ja": "こちらの在庫はありますか？",
+    "kana": "こちらの ざいこは ありますか？",
+    "romaji": "Kochira no zaiko wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Do you have One Piece cards?",
+    "ja": "ワンピースカードはありますか？",
+    "kana": "ワンピースカードは ありますか？",
+    "romaji": "Wan Pīsu kādo wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Can I check the condition of the card?",
+    "ja": "カードの状態を確認してもいいですか？",
+    "kana": "カードの じょうたいを かくにんしても いいですか？",
+    "romaji": "Kādo no jōtai o kakunin shite mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Does this hair dryer work overseas?",
+    "ja": "このドライヤーは海外でも使えますか？",
+    "kana": "この ドライヤーは かいがいでも つかえますか？",
+    "romaji": "Kono doraiyā wa kaigai demo tsukaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Where is the ticket gate?",
+    "ja": "改札口はどこですか？",
+    "kana": "かいさつぐちは どこですか？",
+    "romaji": "Kaisatsuguchi wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Which platform goes to Kyoto?",
+    "ja": "京都行きは何番ホームですか？",
+    "kana": "きょうとゆきは なんばんホームですか？",
+    "romaji": "Kyōto-yuki wa nanban hōmu desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Does this train stop at Ueno?",
+    "ja": "この電車は上野に止まりますか？",
+    "kana": "この でんしゃは うえのに とまりますか？",
+    "romaji": "Kono densha wa Ueno ni tomarimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Where is the exit?",
+    "ja": "出口はどこですか？",
+    "kana": "でぐちは どこですか？",
+    "romaji": "Deguchi wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Where is the elevator?",
+    "ja": "エレベーターはどこですか？",
+    "kana": "エレベーターは どこですか？",
+    "romaji": "Erebētā wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Is this the correct train?",
+    "ja": "この電車で合っていますか？",
+    "kana": "この でんしゃで あっていますか？",
+    "romaji": "Kono densha de atte imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Where can I buy Shinkansen tickets?",
+    "ja": "新幹線の切符はどこで買えますか？",
+    "kana": "しんかんせんの きっぷは どこで かえますか？",
+    "romaji": "Shinkansen no kippu wa doko de kaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "I have oversized luggage",
+    "ja": "大きな荷物があります。",
+    "kana": "おおきな にもつが あります。",
+    "romaji": "Ōkina nimotsu ga arimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Can we leave our luggage after checkout?",
+    "ja": "チェックアウト後に荷物を預けられますか？",
+    "kana": "チェックアウトごに にもつを あずけられますか？",
+    "romaji": "Chekkuauto-go ni nimotsu o azukeraremasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Until what time can you hold it?",
+    "ja": "何時まで預かっていただけますか？",
+    "kana": "なんじまで あずかっていただけますか？",
+    "romaji": "Nanji made azukatte itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Where are the coin lockers?",
+    "ja": "コインロッカーはどこですか？",
+    "kana": "コインロッカーは どこですか？",
+    "romaji": "Koin rokkā wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Can we check in early?",
+    "ja": "早めにチェックインできますか？",
+    "kana": "はやめに チェックインできますか？",
+    "romaji": "Hayame ni chekkuin dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "We would like to check out",
+    "ja": "チェックアウトをお願いします。",
+    "kana": "チェックアウトを おねがいします。",
+    "romaji": "Chekkuauto o onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Is there an additional fee?",
+    "ja": "追加料金はかかりますか？",
+    "kana": "ついかりょうきんは かかりますか？",
+    "romaji": "Tsuika ryōkin wa kakarimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Activities",
+    "en": "Where is the entrance?",
+    "ja": "入口はどこですか？",
+    "kana": "いりぐちは どこですか？",
+    "romaji": "Iriguchi wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Activities",
+    "en": "How long is the wait?",
+    "ja": "待ち時間はどのくらいですか？",
+    "kana": "まちじかんは どのくらいですか？",
+    "romaji": "Machijikan wa dono kurai desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Activities",
+    "en": "Do I need to reserve?",
+    "ja": "予約は必要ですか？",
+    "kana": "よやくは ひつようですか？",
+    "romaji": "Yoyaku wa hitsuyō desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Activities",
+    "en": "Are tattoos allowed?",
+    "ja": "タトゥーがあっても入れますか？",
+    "kana": "タトゥーが あっても はいれますか？",
+    "romaji": "Tatū ga atte mo hairemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Activities",
+    "en": "Where can I change clothes?",
+    "ja": "更衣室はどこですか？",
+    "kana": "こういしつは どこですか？",
+    "romaji": "Kōishitsu wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I am lost",
+    "ja": "道に迷いました。",
+    "kana": "みちに まよいました。",
+    "romaji": "Michi ni mayoimashita.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Please help me",
+    "ja": "助けてください。",
+    "kana": "たすけてください。",
+    "romaji": "Tasukete kudasai.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I need a pharmacy",
+    "ja": "薬局を探しています。",
+    "kana": "やっきょくを さがしています。",
+    "romaji": "Yakkyoku o sagashite imasu.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I feel unwell",
+    "ja": "具合が悪いです。",
+    "kana": "ぐあいが わるいです。",
+    "romaji": "Guai ga warui desu.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Please call an ambulance",
+    "ja": "救急車を呼んでください。",
+    "kana": "きゅうきゅうしゃを よんでください。",
+    "romaji": "Kyūkyūsha o yonde kudasai.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I missed my train",
+    "ja": "電車に乗り遅れました。",
+    "kana": "でんしゃに のりおくれました。",
+    "romaji": "Densha ni noriokuremashita.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I lost my phone",
+    "ja": "携帯電話をなくしました。",
+    "kana": "けいたいでんわを なくしました。",
+    "romaji": "Keitai denwa o nakushimashita.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Where is the nearest police box?",
+    "ja": "一番近い交番はどこですか？",
+    "kana": "いちばん ちかい こうばんは どこですか？",
+    "romaji": "Ichiban chikai kōban wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Entrance",
+    "ja": "入口",
+    "kana": "いりぐち",
+    "romaji": "Iriguchi",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Exit",
+    "ja": "出口",
+    "kana": "でぐち",
+    "romaji": "Deguchi",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Ticket gate",
+    "ja": "改札口",
+    "kana": "かいさつぐち",
+    "romaji": "Kaisatsuguchi",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Reserved seat",
+    "ja": "指定席",
+    "kana": "していせき",
+    "romaji": "Shiteiseki",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Non-reserved seat",
+    "ja": "自由席",
+    "kana": "じゆうせき",
+    "romaji": "Jiyūseki",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Tax-free",
+    "ja": "免税",
+    "kana": "めんぜい",
+    "romaji": "Menzei",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Sold out",
+    "ja": "売り切れ",
+    "kana": "うりきれ",
+    "romaji": "Urikire",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Cash only",
+    "ja": "現金のみ",
+    "kana": "げんきんのみ",
+    "romaji": "Genkin nomi",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "No photography",
+    "ja": "撮影禁止",
+    "kana": "さつえいきんし",
+    "romaji": "Satsuei kinshi",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Women",
+    "ja": "女性",
+    "kana": "じょせい",
+    "romaji": "Josei",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Men",
+    "ja": "男性",
+    "kana": "だんせい",
+    "romaji": "Dansei",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Cold / iced",
+    "ja": "冷たい",
+    "kana": "つめたい",
+    "romaji": "Tsumetai",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Hot / warm",
+    "ja": "温かい",
+    "kana": "あたたかい",
+    "romaji": "Atatakai",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "One item",
+    "ja": "一つ",
+    "kana": "ひとつ",
+    "romaji": "Hitotsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Two items",
+    "ja": "二つ",
+    "kana": "ふたつ",
+    "romaji": "Futatsu",
+    "type": "vocab"
+  },
+  {
+    "category": "Signs & Vocabulary",
+    "en": "Four items",
+    "ja": "四つ",
+    "kana": "よっつ",
+    "romaji": "Yottsu",
+    "type": "vocab"
+  }
+]
