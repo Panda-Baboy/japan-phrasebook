@@ -1,1 +1,30 @@
-{"name":"Japan Phrasebook V3","short_name":"Japan Guide","description":"Offline Japanese travel phrases, flashcards and sentence builder","start_url":"./","scope":"./","display":"standalone","background_color":"#f7f8f4","theme_color":"#173c39","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{
+  "name": "Japan Phrasebook V3.1",
+  "short_name": "Japan Guide",
+  "description": "Offline Japanese travel phrases, flashcards and sentence builder",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#173c39",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
