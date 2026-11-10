@@ -5,7 +5,7 @@ const v33Read=()=>{try{return JSON.parse(localStorage.getItem(V33_KEY)||'{}')}ca
 let trip=Object.assign({purchases:[],wardrobe:[],outfits:{},theme:'light',conversation:'say',learn:'hiragana'},v33Read());
 function v33Save(){try{localStorage.setItem(V33_KEY,JSON.stringify(trip))}catch{alert('Could not save. Your browser storage may be full.')}}
 const v33esc=safe;
-const v33Extra=['conversations','food','clothing','cosmetics','purchases','outfits','learning'];
+const v33Extra=['food','clothing','cosmetics','purchases','outfits','learning'];
 const v33Labels={conversations:'💬 Conversations',food:'🍜 Food Builder',clothing:'👖 Clothing',cosmetics:'🧴 Cosmetics',purchases:'🛍️ Purchases',outfits:'👗 Outfits',learning:'あ Learning'};
 function v33Nav(){let n=document.querySelector('.nav');if(!n)return;if(!document.getElementById('v33more')){let d=document.createElement('div');d.id='v33more';d.className='v33nav';d.innerHTML=v33Extra.map(x=>`<button data-page="${x}">${v33Labels[x]}</button>`).join('');n.after(d)}if(!document.getElementById('v33theme')){let top=document.querySelector('.topinner');if(top){let b=document.createElement('button');b.id='v33theme';b.type='button';b.className='v33theme-top';b.title='Switch between light and dark mode';b.setAttribute('aria-label','Switch between light and dark mode');top.prepend(b);b.onclick=()=>{trip.theme=trip.theme==='dark'?'light':'dark';v33Save();v33Theme()}}}document.querySelectorAll('.v33nav [data-page]').forEach(b=>b.classList.toggle('active',b.dataset.page===page));}
 function v33Theme(){document.body.classList.toggle('v33dark',trip.theme==='dark');let b=document.getElementById('v33theme');if(b){b.textContent=trip.theme==='dark'?'☀️ Light':'🌙 Dark';b.setAttribute('aria-pressed',String(trip.theme==='dark'))}}
@@ -49,8 +49,32 @@ function v33Learning(){let t=trip.learn||'hiragana';app.innerHTML=`<h2>📚 Japa
 async function v33Import(e){let file=e.target.files?.[0];if(!file)return;try{let data=JSON.parse(await file.text());if(!data.trip||!Array.isArray(data.trip.purchases)||!Array.isArray(data.trip.wardrobe)||typeof data.trip.outfits!=='object')throw Error('Not a valid V3.3 backup');if(!confirm('Replace purchases, wardrobe and outfits on this device with this backup?'))return;trip=Object.assign({},trip,data.trip);v33Save();render();alert('Trip plan imported.')}catch(err){alert('Unable to import backup: '+err.message)}}
 function v33Export(){let blob=new Blob([JSON.stringify({version:'3.3',trip},null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='japan-trip-v33-backup.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)}
 function v33HomeAdd(){let h=document.querySelector('#homeCats');if(!h||document.querySelector('#v33quick'))return;h.insertAdjacentHTML('afterbegin',`<section id="v33quick" class="panel"><h3>✨ New in V3.3</h3><div class="v33quick">${v33Extra.map(x=>`<button class="btn alt" data-page="${x}">${v33Labels[x]}</button>`).join('')}</div><p class="mini">Google Translate camera → copy Japanese → paste into a builder. Shopping and outfits save on this device.</p></section>`)}
+/* Category-scoped conversations: each category has its own Say / Staff tabs. */
+const v33CategoryMap={
+ 'Clothing & Shoes':['Clothing','Shopping'],
+ 'Skincare & Cosmetics':['Cosmetics','Shopping'],
+ 'Restaurants & Omakase':['Food'],
+ 'Food & Drinks':['Food'],
+ 'Tsukiji & Street Food':['Food'],
+ 'Convenience Stores':['Shopping','Food'],
+ 'Matcha & Cafés':['Food'],
+ 'Trading Cards':['Shopping'],
+ 'Universal Studios Japan':['Shopping'],
+ 'Refunds & Payments':['Refunds','Shopping']
+};
+let v33CategoryTab='say';
 const originalRender=render;
-render=function(){v33Nav();v33Theme();if(v33Extra.includes(page)){document.querySelectorAll('.nav button').forEach(b=>b.classList.remove('active'));({conversations:v33Conversations,food:()=>v33Builder('food'),clothing:()=>v33Builder('clothing'),cosmetics:()=>v33Builder('cosmetics'),purchases:v33Purchases,outfits:v33Outfits,learning:v33Learning})[page]()}else{originalRender();if(page==='home')v33HomeAdd();if(page==='category'){let p=phrases.filter(x=>x.category===selectedCategory);if(p.some(x=>x.type==='staff')){let div=document.createElement('div');div.className='v33hint';div.innerHTML='<strong>👂 Staff phrases are also available separately under Conversations → Staff Might Say.</strong>';app.prepend(div)}}}};
+const originalCategory=category;
+category=function(){
+ const ids=phrases.map((p,i)=>p.category===selectedCategory && (v33CategoryTab==='staff'?p.type==='staff':p.type!=='staff')?i:-1).filter(i=>i>=0);
+ const tags=v33CategoryMap[selectedCategory]||[];
+ const extra=conversations.filter(p=>p.type===v33CategoryTab && tags.includes(p.cat));
+ const hasStaff=phrases.some(p=>p.category===selectedCategory&&p.type==='staff')||conversations.some(p=>p.type==='staff'&&tags.includes(p.cat));
+ app.innerHTML=`<button class="back" data-back="1">← All categories</button><div class="head"><h2>${CATS[selectedCategory]||'📖'} ${safe(selectedCategory)}</h2></div>${hasStaff?`<div class="v33tabs" role="group" aria-label="Conversation type"><button data-categorytab="say" class="${v33CategoryTab==='say'?'active':''}" aria-pressed="${v33CategoryTab==='say'}">🗣️ What I Say</button><button data-categorytab="staff" class="${v33CategoryTab==='staff'?'active':''}" aria-pressed="${v33CategoryTab==='staff'}">👂 What Staff Might Say</button></div>`:''}<div class="cards">${ids.map(i=>phrase(i)).join('')}${extra.map(p=>v33Card(p)+(p.replies?`<div class="v33replies"><strong>Suggested replies</strong>${p.replies.map(id=>conversations.find(x=>x.id===id)).filter(Boolean).map(r=>v33Card(r,true)).join('')}</div>`:'')).join('')}</div>${ids.length+extra.length===0?'<p class="empty">No phrases in this section yet.</p>':''}`;
+};
+render=function(){v33Nav();v33Theme();if(v33Extra.includes(page)){document.querySelectorAll('.nav button').forEach(b=>b.classList.remove('active'));({food:()=>v33Builder('food'),clothing:()=>v33Builder('clothing'),cosmetics:()=>v33Builder('cosmetics'),purchases:v33Purchases,outfits:v33Outfits,learning:v33Learning})[page]()}else{originalRender();if(page==='home')v33HomeAdd()}};
+document.addEventListener('click',e=>{const b=e.target.closest('[data-categorytab]');if(!b)return;v33CategoryTab=b.dataset.categorytab;category()});
+document.addEventListener('click',e=>{if(e.target.closest('[data-cat]'))v33CategoryTab='say'});
 document.addEventListener('click',e=>{let b=e.target.closest('button');if(!b)return;if(b.dataset.v33show){let p=conversations.find(x=>x.id===b.dataset.v33show);if(p)show(p)}if(b.dataset.v33copy){let p=conversations.find(x=>x.id===b.dataset.v33copy);if(p)copy(p.ja)}});
 const v33OldInit=init;
 /* The original init calls render(), which now includes the V3.3 navigation. */
