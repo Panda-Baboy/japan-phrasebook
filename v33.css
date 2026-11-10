@@ -2,3 +2,50 @@
 .v33nav{display:flex;gap:7px;overflow-x:auto;padding:10px 12px;background:#edf6ec;border-bottom:1px solid #d1e5d4;scrollbar-width:thin;position:relative;z-index:2}.v33nav button{border:1px solid #b6d4c2;background:white;color:#16452e;padding:10px 12px;border-radius:12px;white-space:nowrap;font-weight:700;cursor:pointer}.v33nav button.active,.v33tabs button.active{background:#176744;color:white}.v33quick,.v33tabs{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.v33quick button{flex:1 1 125px}.v33tabs button{flex:1;border:1px solid #a7c7b0;border-radius:12px;background:#fff;padding:12px 9px;font-weight:700;color:#20533d;cursor:pointer}.v33phrase{background:#fff;border:1px solid #d5e5d9;border-radius:15px;padding:15px;margin:10px 0;box-shadow:0 3px 8px #1232}.v33phrase .ja{font-size:clamp(22px,5vw,32px)}.v33replies{margin-left:14px;padding:9px 12px;border-left:4px solid #4a9b78;background:#eef8f1;border-radius:10px}.v33replies .v33phrase{box-shadow:none}.v33hint{padding:11px;border-radius:10px;background:#e8f5ec;margin:12px 0;color:#27503d}.v33checks{display:flex;flex-wrap:wrap;gap:12px;margin:12px 0}.v33checks label,.v33wear{display:flex;align-items:center;gap:7px}.v33checks input,.v33wear input,.v33ward input{width:18px;height:18px;accent-color:#17744c}.v33stats{margin:15px 0;padding:14px;border-radius:12px;background:#e5f3ea;font-weight:700}.v33duo{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}.v33person{min-width:0;background:#fff;border:1px solid #cbded3;padding:12px;border-radius:13px}.v33person:first-child{background:#fff0f6}.v33person:nth-child(2){background:#eef6ff}.v33person h3{font-size:17px}.v33wear{font-size:14px;margin:9px 0;overflow-wrap:anywhere}.v33ward{display:flex;align-items:center;gap:8px;justify-content:space-between;padding:11px 0;border-bottom:1px solid #dbe7df}.v33ward span{flex:1}.v33ward label{font-size:12px;display:flex;gap:4px;align-items:center}.v33chargrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(90px,1fr));gap:9px;margin:15px 0}.v33char{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;border:1px solid #b9d9c7;border-radius:12px;background:#fff;padding:11px 5px;min-height:100px;color:#234d3a;cursor:pointer}.v33char strong{font-size:35px}.v33char span{font-weight:700}.v33char small{font-size:10px;overflow-wrap:anywhere;text-align:center}.v33dark{background:#0b1029!important;color:#e9e9ff!important}.v33dark header,.v33dark .nav,.v33dark .v33nav{background:#17173c!important;color:#fff!important}.v33dark main,.v33dark #app{color:#f2efff}.v33dark .panel,.v33dark .card,.v33dark .v33phrase,.v33dark .v33person,.v33dark .v33char,.v33dark .tile,.v33dark .study,.v33dark .result,.v33dark .empty{background:#1b2047!important;color:#f4f1ff!important;border-color:#5e4388!important}.v33dark .v33nav button,.v33dark .v33tabs button,.v33dark input,.v33dark select{background:#27254e;color:#fff;border-color:#7655a3}.v33dark .v33nav button.active,.v33dark .v33tabs button.active{background:#a22e91;color:#fff}.v33dark .v33replies,.v33dark .v33hint,.v33dark .v33stats{background:#26244f;color:#f4eaff}.v33dark .muted,.v33dark .mini,.v33dark .romaji,.v33dark .kana{color:#d3c9f2!important}.v33dark .ja{color:#fff!important}.v33dark .v33person:first-child{border-color:#e758aa!important}.v33dark .v33person:nth-child(2){border-color:#39c5e7!important}.v33dark .btn{background:#b82e91;color:#fff}.v33dark .btn.alt{background:#27254e;color:#fff;border:1px solid #7759ac}@media(max-width:390px){.v33duo{gap:5px}.v33person{padding:8px}.v33ward{flex-wrap:wrap}}
 
 .v33import{display:inline-flex;align-items:center;padding:10px 12px;border:1px solid #8bbda4;border-radius:10px;cursor:pointer;margin-top:9px}.v33import input{max-width:160px;font-size:11px}
+
+/* V3.3 visual refresh: Sakura daylight / Akihabara neon night */
+:root{--sakura:#f67da9;--forest:#155d42;--mint:#dff5e9}
+body{background:linear-gradient(180deg,#fff1f7 0,#fffaf5 270px,#f0f9f4 100%);background-attachment:fixed}
+.top{position:relative;overflow:hidden;border-radius:0 0 32px 32px;background:radial-gradient(circle at 88% 12%,#ffd9e8 0 8%,transparent 9%),linear-gradient(120deg,#105339 0%,#21794c 52%,#a8ddcd 100%);box-shadow:0 8px 24px #174a3c25;border-bottom:4px solid #f4a3c3}
+.top:before{content:'🌸  🌸';position:absolute;right:12px;top:6px;font-size:32px;opacity:.85;transform:rotate(-12deg)}
+.top:after{content:'🗻';position:absolute;right:24px;bottom:-25px;font-size:95px;opacity:.9;filter:drop-shadow(0 2px 4px #174a3c22)}
+.topinner{position:relative;z-index:1;padding-right:64px}
+.top h1{font-weight:850;letter-spacing:-.6px;text-shadow:0 2px 2px #153b3a30}
+.top h1 span{display:inline-block;background:#fce0ed;color:#134d39;border:1px solid #fff7;padding:5px 9px;border-radius:999px;font-weight:850!important;font-size:12px!important;vertical-align:middle;white-space:nowrap}
+.top p{color:#f6fff8}
+.nav{background:#fff7fae8;backdrop-filter:blur(12px);border-radius:0 0 14px 14px}
+.nav button,.v33nav button,.chip{border-radius:999px;box-shadow:0 2px 5px #163d2920}
+.nav button.active,.v33nav button.active,.v33tabs button.active{background:linear-gradient(120deg,#176744,#309b6e);color:white}
+.v33nav{background:transparent;border:0;padding:8px 0 12px}
+.tile,.card,.panel,.v33phrase,.v33person,.v33char{border-color:#f2d9e3;box-shadow:0 4px 13px #a74d7716}
+.tile{background:linear-gradient(145deg,#fff,#fff3f8)}
+.tile:nth-child(3n){background:linear-gradient(145deg,#fff,#e9f9f2)}
+.head h2{color:#17563f}.btn{background:linear-gradient(115deg,#146346,#258a63);border:0;box-shadow:0 3px 8px #14634630}
+.btn.alt{background:#fff;color:#176744;border:1px solid #9fcab4}
+.v33phrase .ja{color:#184d3b;font-weight:750}.v33hint{border-left:4px solid #ed7eaa}
+.v33person:first-child{border-top:4px solid #ef85b1}.v33person:nth-child(2){border-top:4px solid #7bb8e8}
+/* Night palette overrides, including the original V3.2 components */
+body.v33dark{background:radial-gradient(ellipse at 85% 0%,#41236c 0%,transparent 45%),linear-gradient(165deg,#080b21,#171236 70%,#0b1534)!important;color:#f4edff!important}
+.v33dark .top{background:radial-gradient(circle at 88% 20%,#3d2e86 0%,transparent 35%),linear-gradient(120deg,#0b1233,#211449 70%,#122f55)!important;border-bottom:3px solid #f14dce;box-shadow:0 5px 25px #ec42d260}
+.v33dark .top:before{content:'🌙 ✨';filter:drop-shadow(0 0 8px #f98deb)}
+.v33dark .top:after{content:'🌃';filter:drop-shadow(0 0 12px #38d9ff)}
+.v33dark .top h1{text-shadow:0 0 12px #ff65d9}
+.v33dark .top h1 span{background:#301d55;color:#ff9deb;border:1px solid #f64acb}
+.v33dark .nav{background:#121632e8!important}
+.v33dark .nav button,.v33dark .chip{background:#252044;color:#f9e9ff;border:1px solid #754b9b}
+.v33dark .nav button.active,.v33dark .v33nav button.active{background:linear-gradient(110deg,#ec3bb5,#7534d7)!important;border-color:#ff71e2;box-shadow:0 0 12px #f34ac277}
+.v33dark .tile,.v33dark .card,.v33dark .panel,.v33dark .v33phrase,.v33dark .v33person,.v33dark .v33char,.v33dark .study,.v33dark .result{background:linear-gradient(145deg,#1c2149,#252044)!important;color:#f5eaff!important;border:1px solid #7652b3!important;box-shadow:0 3px 14px #bd3ad033}
+.v33dark .tile small,.v33dark .card .en,.v33dark .count,.v33dark .head h2,.v33dark .back{color:#ffd0ee!important}
+.v33dark .search,.v33dark textarea,.v33dark input,.v33dark select{background:#202042!important;color:#fff!important;border:1px solid #7854a9!important}
+.v33dark .v33phrase .ja{color:#fff!important}
+.v33dark .btn{background:linear-gradient(120deg,#e83eac,#793bda);border:1px solid #ef77d1;box-shadow:0 0 9px #ef40b455}
+.v33dark .btn.alt{background:#242147;color:#fbe9ff}
+.v33dark .v33nav{background:transparent!important}
+.v33dark .v33hint,.v33dark .v33replies,.v33dark .v33stats{background:#2b2552;color:#f7eaff}
+.v33dark .footer,.v33dark .footer a{color:#c6b6e8}
+
+/* V3.3.2: Theme switch pinned to the top-right of the page header. */
+.topinner{position:relative;padding-right:106px!important;min-height:88px}
+.v33theme-top{position:absolute;top:12px;right:10px;z-index:10;display:inline-flex;align-items:center;justify-content:center;min-width:85px;min-height:40px;padding:8px 10px;border:1px solid rgba(255,255,255,.65);border-radius:999px;background:#fff9f1;color:#174a35;font-size:13px;font-weight:800;box-shadow:0 2px 9px #0002;cursor:pointer}
+.v33dark .v33theme-top{background:#2c2357;color:#fff;border-color:#e56fe8;box-shadow:0 0 12px #ec59db55}
+@media(max-width:420px){.topinner{padding-right:99px!important}.v33theme-top{right:7px;top:9px;min-width:79px;font-size:12px;padding:7px}}

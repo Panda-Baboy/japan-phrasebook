@@ -11,3 +11,5 @@ NEW: What I Say / Staff Might Say, Japanese shopping builders, simple offline pu
 LIMITATIONS: No API/photo recognition, no automatic translation of unknown Japanese, no cloud sync, no handwriting/stroke-order practice or quiz engine. Device-only purchase and outfit data can be lost if browser storage is cleared. Export trip backup is available but importing is not yet built. Voice pronunciation depends on device voices.
 
 IMPORTANT: For tax-free goods, follow current official and shop instructions about opening or consuming purchases.
+
+V3.3.2: Light/dark theme toggle moved to the top-right header.
