@@ -1,7 +1,7 @@
 {
-  "name": "Japan Phrasebook V3.2",
-  "short_name": "Japan Guide",
-  "description": "Offline Japanese travel phrases, flashcards and sentence builder",
+  "name": "Japan Phrasebook V3.3",
+  "short_name": "Japan Phrasebook",
+  "description": "Japanese travel phrases, staff conversations, shopping builders, purchases and outfit planner",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -18,12 +18,6 @@
       "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "./icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
       "purpose": "any"
     }
   ]
