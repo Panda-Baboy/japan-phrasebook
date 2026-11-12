@@ -117,7 +117,27 @@
     "ja": "お持ち帰りですか？",
     "kana": "おもちかえりですか？",
     "romaji": "Omochikaeri desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Takeaway, please.",
+        "ja": "持ち帰りでお願いします。",
+        "kana": "もちかえりで おねがいします。",
+        "romaji": "Mochikaeri de onegai shimasu."
+      },
+      {
+        "en": "For here, please.",
+        "ja": "店内でお願いします。",
+        "kana": "てんないで おねがいします。",
+        "romaji": "Tennai de onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Food & Drinks",
@@ -181,7 +201,27 @@
     "ja": "ご予約はありますか？",
     "kana": "ごよやくは ありますか？",
     "romaji": "Goyoyaku wa arimasu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Yes, I have a reservation.",
+        "ja": "はい、予約しています。",
+        "kana": "はい、よやくしています。",
+        "romaji": "Hai, yoyaku shite imasu."
+      },
+      {
+        "en": "No, I do not have a reservation.",
+        "ja": "いいえ、予約していません。",
+        "kana": "いいえ、よやくしていません。",
+        "romaji": "Iie, yoyaku shite imasen."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Food & Drinks",
@@ -901,7 +941,33 @@
     "ja": "何かお探しですか？",
     "kana": "なにか おさがしですか？",
     "romaji": "Nanika osagashi desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "I am just looking, thank you.",
+        "ja": "見ているだけです。ありがとうございます。",
+        "kana": "みているだけです。ありがとうございます。",
+        "romaji": "Mite iru dake desu. Arigatō gozaimasu."
+      },
+      {
+        "en": "Yes, please.",
+        "ja": "はい、お願いします。",
+        "kana": "はい、おねがいします。",
+        "romaji": "Hai, onegai shimasu."
+      },
+      {
+        "en": "I am looking for trousers.",
+        "ja": "ズボンを探しています。",
+        "kana": "ズボンを さがしています。",
+        "romaji": "Zubon o sagashite imasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Clothing & Shoes",
@@ -909,7 +975,27 @@
     "ja": "サイズはいかがですか？",
     "kana": "サイズは いかがですか？",
     "romaji": "Saizu wa ikaga desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "It fits well, thank you.",
+        "ja": "ちょうどいいです。ありがとうございます。",
+        "kana": "ちょうどいいです。ありがとうございます。",
+        "romaji": "Chōdo ii desu. Arigatō gozaimasu."
+      },
+      {
+        "en": "It is a little big.",
+        "ja": "少し大きいです。",
+        "kana": "すこし おおきいです。",
+        "romaji": "Sukoshi ōkii desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Clothing & Shoes",
@@ -1085,7 +1171,27 @@
     "ja": "温めますか？",
     "kana": "あたためますか？",
     "romaji": "Atatamemasu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Yes, please heat it up.",
+        "ja": "はい、温めてください。",
+        "kana": "はい、あたためてください。",
+        "romaji": "Hai, atatamete kudasai."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Convenience Stores",
@@ -1093,7 +1199,27 @@
     "ja": "袋はご利用ですか？",
     "kana": "ふくろは ごりようですか？",
     "romaji": "Fukuro wa goriyou desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Yes, please.",
+        "ja": "はい、お願いします。",
+        "kana": "はい、おねがいします。",
+        "romaji": "Hai, onegai shimasu."
+      },
+      {
+        "en": "No bag needed, thank you.",
+        "ja": "袋は大丈夫です。ありがとうございます。",
+        "kana": "ふくろは だいじょうぶです。ありがとうございます。",
+        "romaji": "Fukuro wa daijōbu desu. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Convenience Stores",
@@ -1101,7 +1227,27 @@
     "ja": "お箸はお付けしますか？",
     "kana": "おはしは おつけしますか？",
     "romaji": "Ohashi wa otsuke shimasu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Yes, please.",
+        "ja": "はい、お願いします。",
+        "kana": "はい、おねがいします。",
+        "romaji": "Hai, onegai shimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Convenience Stores",
@@ -1109,7 +1255,27 @@
     "ja": "ポイントカードはお持ちですか？",
     "kana": "ポイントカードは おもちですか？",
     "romaji": "Pointo kaado wa omochi desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "No, I do not have one.",
+        "ja": "いいえ、持っていません。",
+        "kana": "いいえ、もっていません。",
+        "romaji": "Iie, motte imasen."
+      },
+      {
+        "en": "Yes, please.",
+        "ja": "はい、お願いします。",
+        "kana": "はい、おねがいします。",
+        "romaji": "Hai, onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Convenience Stores",
@@ -1117,7 +1283,27 @@
     "ja": "お支払い方法は？",
     "kana": "おしはらいほうほうは？",
     "romaji": "Oshiharai houhou wa?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "By card, please.",
+        "ja": "カードでお願いします。",
+        "kana": "カードで おねがいします。",
+        "romaji": "Kādo de onegai shimasu."
+      },
+      {
+        "en": "Cash, please.",
+        "ja": "現金でお願いします。",
+        "kana": "げんきんで おねがいします。",
+        "romaji": "Genkin de onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Convenience Stores",
@@ -1125,7 +1311,27 @@
     "ja": "レシートはご利用ですか？",
     "kana": "レシートは ごりようですか？",
     "romaji": "Reshiito wa goriyou desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "A receipt, please.",
+        "ja": "レシートをお願いします。",
+        "kana": "レシートを おねがいします。",
+        "romaji": "Reshīto o onegai shimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Convenience Stores",
@@ -1133,7 +1339,27 @@
     "ja": "年齢確認をお願いします。",
     "kana": "ねんれいかくにんを おねがいします。",
     "romaji": "Nenrei kakunin o onegaishimasu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Here is my ID.",
+        "ja": "身分証明書はこちらです。",
+        "kana": "みぶんしょうめいしょは こちらです。",
+        "romaji": "Mibun shōmeisho wa kochira desu."
+      },
+      {
+        "en": "How do I do that?",
+        "ja": "どうすればいいですか？",
+        "kana": "どうすれば いいですか？",
+        "romaji": "Dō sureba ii desu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Convenience Stores",
@@ -1285,7 +1511,21 @@
     "ja": "何名様ですか？",
     "kana": "なんめいさまですか？",
     "romaji": "Nanmei-sama desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Two people, please.",
+        "ja": "二人です。",
+        "kana": "ふたりです。",
+        "romaji": "Futari desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1293,7 +1533,27 @@
     "ja": "ご予約はございますか？",
     "kana": "ごよやくは ございますか？",
     "romaji": "Goyoyaku wa gozaimasu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Yes, I have a reservation.",
+        "ja": "はい、予約しています。",
+        "kana": "はい、よやくしています。",
+        "romaji": "Hai, yoyaku shite imasu."
+      },
+      {
+        "en": "No, I do not have a reservation.",
+        "ja": "いいえ、予約していません。",
+        "kana": "いいえ、よやくしていません。",
+        "romaji": "Iie, yoyaku shite imasen."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1301,7 +1561,27 @@
     "ja": "ご注文はお決まりですか？",
     "kana": "ごちゅうもんは おきまりですか？",
     "romaji": "Gochuumon wa okimari desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Yes, we are ready to order.",
+        "ja": "はい、注文をお願いします。",
+        "kana": "はい、ちゅうもんを おねがいします。",
+        "romaji": "Hai, chūmon o onegai shimasu."
+      },
+      {
+        "en": "Could you give us a moment?",
+        "ja": "少し待っていただけますか？",
+        "kana": "すこし まっていただけますか？",
+        "romaji": "Sukoshi matte itadakemasu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1309,7 +1589,27 @@
     "ja": "お飲み物はいかがですか？",
     "kana": "おのみものは いかがですか？",
     "romaji": "Onomimono wa ikaga desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Water, please.",
+        "ja": "お水をお願いします。",
+        "kana": "おみずを おねがいします。",
+        "romaji": "Omizu o onegai shimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1317,7 +1617,21 @@
     "ja": "少々お待ちください。",
     "kana": "しょうしょう おまちください。",
     "romaji": "Shoushou omachi kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1325,7 +1639,21 @@
     "ja": "こちらのお席へどうぞ。",
     "kana": "こちらの おせきへ どうぞ。",
     "romaji": "Kochira no oseki e douzo.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1333,7 +1661,27 @@
     "ja": "お会計はレジでお願いします。",
     "kana": "おかいけいは レジで おねがいします。",
     "romaji": "Okaikei wa reji de onegaishimasu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "How do I do that?",
+        "ja": "どうすればいいですか？",
+        "kana": "どうすれば いいですか？",
+        "romaji": "Dō sureba ii desu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1341,7 +1689,21 @@
     "ja": "こちらは中トロです。",
     "kana": "こちらは ちゅうトロです。",
     "romaji": "Kochira wa chuutoro desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1349,7 +1711,21 @@
     "ja": "お醤油は付けずにどうぞ。",
     "kana": "おしょうゆは つけずに どうぞ。",
     "romaji": "Oshouyu wa tsukezu ni douzo.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1357,7 +1733,21 @@
     "ja": "そのままお召し上がりください。",
     "kana": "そのまま おめしあがりください。",
     "romaji": "Sono mama omeshiagari kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1365,7 +1755,21 @@
     "ja": "お早めにどうぞ。",
     "kana": "おはやめに どうぞ。",
     "romaji": "Ohayame ni douzo.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1373,7 +1777,27 @@
     "ja": "苦手なものはございますか？",
     "kana": "にがてな ものは ございますか？",
     "romaji": "Nigate na mono wa gozaimasu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "I have an allergy. Could you check the ingredients?",
+        "ja": "アレルギーがあります。材料を確認していただけますか？",
+        "kana": "アレルギーが あります。ざいりょうを かくにんしていただけますか？",
+        "romaji": "Arerugī ga arimasu. Zairyō o kakunin shite itadakemasu ka?"
+      },
+      {
+        "en": "I have no food allergies.",
+        "ja": "食物アレルギーはありません。",
+        "kana": "しょくもつアレルギーは ありません。",
+        "romaji": "Shokumotsu arerugī wa arimasen."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -1533,7 +1957,27 @@
     "ja": "店内でお召し上がりですか？",
     "kana": "てんないで おめしあがりですか？",
     "romaji": "Tennai de omeshiagari desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "For here, please.",
+        "ja": "店内でお願いします。",
+        "kana": "てんないで おねがいします。",
+        "romaji": "Tennai de onegai shimasu."
+      },
+      {
+        "en": "Takeaway, please.",
+        "ja": "持ち帰りでお願いします。",
+        "kana": "もちかえりで おねがいします。",
+        "romaji": "Mochikaeri de onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Matcha & Cafés",
@@ -1541,7 +1985,27 @@
     "ja": "ホットとアイス、どちらになさいますか？",
     "kana": "ホットと アイス、どちらに なさいますか？",
     "romaji": "Hotto to aisu, dochira ni nasaimasu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Hot, please.",
+        "ja": "ホットでお願いします。",
+        "kana": "ホットで おねがいします。",
+        "romaji": "Hotto de onegai shimasu."
+      },
+      {
+        "en": "Iced, please.",
+        "ja": "アイスでお願いします。",
+        "kana": "アイスで おねがいします。",
+        "romaji": "Aisu de onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Matcha & Cafés",
@@ -1549,7 +2013,27 @@
     "ja": "サイズはいかがなさいますか？",
     "kana": "サイズは いかがなさいますか？",
     "romaji": "Saizu wa ikaga nasaimasu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Medium, please.",
+        "ja": "Mサイズでお願いします。",
+        "kana": "エムサイズで おねがいします。",
+        "romaji": "Emu saizu de onegai shimasu."
+      },
+      {
+        "en": "Small, please.",
+        "ja": "Sサイズでお願いします。",
+        "kana": "エスサイズで おねがいします。",
+        "romaji": "Esu saizu de onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Matcha & Cafés",
@@ -1557,7 +2041,27 @@
     "ja": "甘さはどうされますか？",
     "kana": "あまさは どうされますか？",
     "romaji": "Amasa wa dou saremasu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Normal sweetness, please.",
+        "ja": "甘さは普通でお願いします。",
+        "kana": "あまさは ふつうで おねがいします。",
+        "romaji": "Amasa wa futsū de onegai shimasu."
+      },
+      {
+        "en": "Less sweet, please.",
+        "ja": "甘さ控えめでお願いします。",
+        "kana": "あまさ ひかえめで おねがいします。",
+        "romaji": "Amasa hikaeme de onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Matcha & Cafés",
@@ -1565,7 +2069,27 @@
     "ja": "お名前を伺ってもよろしいですか？",
     "kana": "おなまえを うかがっても よろしいですか？",
     "romaji": "Onamae o ukagatte mo yoroshii desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      },
+      {
+        "en": "My name is K.",
+        "ja": "名前はKです。",
+        "kana": "なまえは ケーです。",
+        "romaji": "Namae wa Kē desu."
+      },
+      {
+        "en": "My name is J.",
+        "ja": "名前はJです。",
+        "kana": "なまえは ジェイです。",
+        "romaji": "Namae wa Jei desu."
+      }
+    ]
   },
   {
     "category": "Matcha & Cafés",
@@ -1757,7 +2281,27 @@
     "ja": "何個にしますか？",
     "kana": "なんこに しますか？",
     "romaji": "Nanko ni shimasu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "One, please.",
+        "ja": "一つお願いします。",
+        "kana": "ひとつ おねがいします。",
+        "romaji": "Hitotsu onegai shimasu."
+      },
+      {
+        "en": "Two, please.",
+        "ja": "二つお願いします。",
+        "kana": "ふたつ おねがいします。",
+        "romaji": "Futatsu onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Tsukiji & Street Food",
@@ -1765,7 +2309,21 @@
     "ja": "こちらでお召し上がりください。",
     "kana": "こちらで おめしあがりください。",
     "romaji": "Kochira de omeshiagari kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Tsukiji & Street Food",
@@ -1773,7 +2331,21 @@
     "ja": "食べ歩きはご遠慮ください。",
     "kana": "たべあるきは ごえんりょください。",
     "romaji": "Tabearuki wa goenryo kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Tsukiji & Street Food",
@@ -1781,7 +2353,21 @@
     "ja": "焼き上がるまで少々お待ちください。",
     "kana": "やきあがるまで しょうしょう おまちください。",
     "romaji": "Yakiagaru made shoushou omachi kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Tsukiji & Street Food",
@@ -1789,7 +2375,27 @@
     "ja": "本日は売り切れです。",
     "kana": "ほんじつは うりきれです。",
     "romaji": "Honjitsu wa urikire desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Do you have another one?",
+        "ja": "ほかのものはありますか？",
+        "kana": "ほかのものは ありますか？",
+        "romaji": "Hoka no mono wa arimasu ka?"
+      },
+      {
+        "en": "When will it be available?",
+        "ja": "いつ入荷しますか？",
+        "kana": "いつ にゅうかしますか？",
+        "romaji": "Itsu nyūka shimasu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Tsukiji & Street Food",
@@ -1797,7 +2403,21 @@
     "ja": "現金のみです。",
     "kana": "げんきんのみです。",
     "romaji": "Genkin nomi desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Cash, please.",
+        "ja": "現金でお願いします。",
+        "kana": "げんきんで おねがいします。",
+        "romaji": "Genkin de onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Tsukiji & Street Food",
@@ -1949,7 +2569,27 @@
     "ja": "こちらは傷あり商品です。",
     "kana": "こちらは きずありしょうひんです。",
     "romaji": "Kochira wa kizu ari shouhin desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Trading Cards",
@@ -1957,7 +2597,27 @@
     "ja": "こちらはプレイ用です。",
     "kana": "こちらは プレイようです。",
     "romaji": "Kochira wa purei-you desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Trading Cards",
@@ -1965,7 +2625,21 @@
     "ja": "お一人様一点までです。",
     "kana": "おひとりさま いってんまでです。",
     "romaji": "Ohitori-sama itten made desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Trading Cards",
@@ -1973,7 +2647,21 @@
     "ja": "こちらは抽選販売です。",
     "kana": "こちらは ちゅうせんはんばいです。",
     "romaji": "Kochira wa chuusen hanbai desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "How do I do that?",
+        "ja": "どうすればいいですか？",
+        "kana": "どうすれば いいですか？",
+        "romaji": "Dō sureba ii desu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Trading Cards",
@@ -1981,7 +2669,27 @@
     "ja": "シュリンクは外します。",
     "kana": "シュリンクは はずします。",
     "romaji": "Shurinku wa hazushimasu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Trading Cards",
@@ -1989,7 +2697,21 @@
     "ja": "返品・交換はできません。",
     "kana": "へんぴん・こうかんは できません。",
     "romaji": "Henpin koukan wa dekimasen.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Skincare & Cosmetics",
@@ -2053,7 +2775,27 @@
     "ja": "どのような商品をお探しですか？",
     "kana": "どのような しょうひんを おさがしですか？",
     "romaji": "Dono you na shouhin o osagashi desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "I am just looking, thank you.",
+        "ja": "見ているだけです。ありがとうございます。",
+        "kana": "みているだけです。ありがとうございます。",
+        "romaji": "Mite iru dake desu. Arigatō gozaimasu."
+      },
+      {
+        "en": "I am looking for sunscreen.",
+        "ja": "日焼け止めを探しています。",
+        "kana": "ひやけどめを さがしています。",
+        "romaji": "Hiyakedome o sagashite imasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Skincare & Cosmetics",
@@ -2061,7 +2803,21 @@
     "ja": "こちらは詰め替え用です。",
     "kana": "こちらは つめかえようです。",
     "romaji": "Kochira wa tsumekae-you desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Skincare & Cosmetics",
@@ -2069,7 +2825,21 @@
     "ja": "こちらは数量限定です。",
     "kana": "こちらは すうりょうげんていです。",
     "romaji": "Kochira wa suuryou gentei desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Skincare & Cosmetics",
@@ -2077,7 +2847,21 @@
     "ja": "お肌に合うかお試しください。",
     "kana": "おはだに あうか おためしください。",
     "romaji": "Ohada ni au ka otameshi kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Skincare & Cosmetics",
@@ -2085,7 +2869,27 @@
     "ja": "免税をご希望ですか？",
     "kana": "めんぜいを ごきぼうですか？",
     "romaji": "Menzei o gokibou desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Yes, please.",
+        "ja": "はい、お願いします。",
+        "kana": "はい、おねがいします。",
+        "romaji": "Hai, onegai shimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Skincare & Cosmetics",
@@ -2381,7 +3185,21 @@
     "ja": "先に体を洗ってください。",
     "kana": "さきに からだを あらってください。",
     "romaji": "Saki ni karada o aratte kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Onsen",
@@ -2389,7 +3207,21 @@
     "ja": "タオルは湯船に入れないでください。",
     "kana": "タオルは ゆぶねに いれないでください。",
     "romaji": "Taoru wa yubune ni irenaide kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Onsen",
@@ -2397,7 +3229,21 @@
     "ja": "水着の着用は禁止です。",
     "kana": "みずぎの ちゃくようは きんしです。",
     "romaji": "Mizugi no chakuyou wa kinshi desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Onsen",
@@ -2405,7 +3251,21 @@
     "ja": "ロッカーの鍵をお持ちください。",
     "kana": "ロッカーの かぎを おもちください。",
     "romaji": "Rokkaa no kagi o omochi kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Onsen",
@@ -2413,7 +3273,21 @@
     "ja": "最終受付は九時です。",
     "kana": "さいしゅううけつけは くじです。",
     "romaji": "Saishuu uketsuke wa kuji desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Onsen",
@@ -2533,7 +3407,21 @@
     "ja": "こちらにお並びください。",
     "kana": "こちらに おならびください。",
     "romaji": "Kochira ni onarabi kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Universal Studios Japan",
@@ -2541,7 +3429,21 @@
     "ja": "お荷物をロッカーにお預けください。",
     "kana": "おにもつを ロッカーに おあずけください。",
     "romaji": "Onimotsu o rokkaa ni oazuke kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Universal Studios Japan",
@@ -2549,7 +3451,21 @@
     "ja": "安全バーを下ろしてください。",
     "kana": "あんぜんバーを おろしてください。",
     "romaji": "Anzen baa o oroshite kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Universal Studios Japan",
@@ -2557,7 +3473,21 @@
     "ja": "シートベルトを締めてください。",
     "kana": "シートベルトを しめてください。",
     "romaji": "Shiito beruto o shimete kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Universal Studios Japan",
@@ -2565,7 +3495,27 @@
     "ja": "本日は運休しております。",
     "kana": "ほんじつは うんきゅうしております。",
     "romaji": "Honjitsu wa unkyuu shite orimasu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Do you have another one?",
+        "ja": "ほかのものはありますか？",
+        "kana": "ほかのものは ありますか？",
+        "romaji": "Hoka no mono wa arimasu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Universal Studios Japan",
@@ -2573,7 +3523,27 @@
     "ja": "こちらのQRコードをご提示ください。",
     "kana": "こちらの キューアールコードを ごていじください。",
     "romaji": "Kochira no kyuu aaru koodo o goteiji kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "How do I do that?",
+        "ja": "どうすればいいですか？",
+        "kana": "どうすれば いいですか？",
+        "romaji": "Dō sureba ii desu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Universal Studios Japan",
@@ -2701,7 +3671,21 @@
     "ja": "乗車券を拝見します。",
     "kana": "じょうしゃけんを はいけんします。",
     "romaji": "Joushaken o haiken shimasu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shinkansen & Trains",
@@ -2709,7 +3693,27 @@
     "ja": "こちらは指定席です。",
     "kana": "こちらは していせきです。",
     "romaji": "Kochira wa shiteiseki desu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "How do I do that?",
+        "ja": "どうすればいいですか？",
+        "kana": "どうすれば いいですか？",
+        "romaji": "Dō sureba ii desu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shinkansen & Trains",
@@ -2717,7 +3721,21 @@
     "ja": "次の電車にお乗りください。",
     "kana": "つぎの でんしゃに おのりください。",
     "romaji": "Tsugi no densha ni onori kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shinkansen & Trains",
@@ -2725,7 +3743,21 @@
     "ja": "こちらでお乗り換えください。",
     "kana": "こちらで おのりかえください。",
     "romaji": "Kochira de onorikae kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shinkansen & Trains",
@@ -2733,7 +3765,21 @@
     "ja": "電車が遅れております。",
     "kana": "でんしゃが おくれております。",
     "romaji": "Densha ga okurete orimasu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shinkansen & Trains",
@@ -2741,7 +3787,21 @@
     "ja": "発車時刻が変更になりました。",
     "kana": "はっしゃじこくが へんこうに なりました。",
     "romaji": "Hassha jikoku ga henkou ni narimashita.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shinkansen & Trains",
@@ -2877,7 +3937,21 @@
     "ja": "何時ごろお戻りですか？",
     "kana": "なんじごろ おもどりですか？",
     "romaji": "Nanji goro omodori desu ka?",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      },
+      {
+        "en": "Around six o’clock.",
+        "ja": "六時ごろ戻ります。",
+        "kana": "ろくじごろ もどります。",
+        "romaji": "Rokuji goro modorimasu."
+      }
+    ]
   },
   {
     "category": "Hotels & Luggage",
@@ -2885,7 +3959,21 @@
     "ja": "当日中のお引き取りをお願いします。",
     "kana": "とうじつちゅうの おひきとりを おねがいします。",
     "romaji": "Toujitsuchuu no ohikitori o onegaishimasu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Hotels & Luggage",
@@ -2893,7 +3981,21 @@
     "ja": "大きさによって料金が異なります。",
     "kana": "おおきさによって りょうきんが ことなります。",
     "romaji": "Ookisa ni yotte ryoukin ga kotonarimasu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "How much is it?",
+        "ja": "いくらですか？",
+        "kana": "いくらですか？",
+        "romaji": "Ikura desu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Hotels & Luggage",
@@ -2901,7 +4003,21 @@
     "ja": "こちらのロッカーは空いていません。",
     "kana": "こちらの ロッカーは あいていません。",
     "romaji": "Kochira no rokkaa wa aite imasen.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Do you have another one?",
+        "ja": "ほかのものはありますか？",
+        "kana": "ほかのものは ありますか？",
+        "romaji": "Hoka no mono wa arimasu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Hotels & Luggage",
@@ -2909,7 +4025,27 @@
     "ja": "お預かりできないお荷物もございます。",
     "kana": "おあずかりできない おにもつも ございます。",
     "romaji": "Oazukari dekinai onimotsu mo gozaimasu.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "How do I do that?",
+        "ja": "どうすればいいですか？",
+        "kana": "どうすれば いいですか？",
+        "romaji": "Dō sureba ii desu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Hotels & Luggage",
@@ -2917,7 +4053,21 @@
     "ja": "引換券をなくさないでください。",
     "kana": "ひきかえけんを なくさないでください。",
     "romaji": "Hikikaeken o nakusanaide kudasai.",
-    "type": "staff"
+    "type": "staff",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Hotels & Luggage",
@@ -3301,7 +4451,27 @@
     "en": "Do you understand?",
     "ja": "分かりますか？",
     "kana": "わかりますか？",
-    "romaji": "Wakarimasu ka?"
+    "romaji": "Wakarimasu ka?",
+    "replies": [
+      {
+        "en": "I understand.",
+        "ja": "わかりました。",
+        "kana": "わかりました。",
+        "romaji": "Wakarimashita."
+      },
+      {
+        "en": "Sorry, I do not understand.",
+        "ja": "すみません、わかりません。",
+        "kana": "すみません、わかりません。",
+        "romaji": "Sumimasen, wakarimasen."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Essentials",
@@ -3309,7 +4479,21 @@
     "en": "Please wait a moment.",
     "ja": "少々お待ちください。",
     "kana": "しょうしょう おまちください。",
-    "romaji": "Shōshō omachi kudasai."
+    "romaji": "Shōshō omachi kudasai.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Essentials",
@@ -3317,7 +4501,27 @@
     "en": "Is this okay?",
     "ja": "こちらでよろしいですか？",
     "kana": "こちらで よろしいですか？",
-    "romaji": "Kochira de yoroshii desu ka?"
+    "romaji": "Kochira de yoroshii desu ka?",
+    "replies": [
+      {
+        "en": "Yes, please.",
+        "ja": "はい、お願いします。",
+        "kana": "はい、おねがいします。",
+        "romaji": "Hai, onegai shimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -3381,7 +4585,27 @@
     "en": "Any allergies?",
     "ja": "アレルギーはございますか？",
     "kana": "アレルギーは ございますか？",
-    "romaji": "Arerugī wa gozaimasu ka?"
+    "romaji": "Arerugī wa gozaimasu ka?",
+    "replies": [
+      {
+        "en": "I have an allergy. Could you check the ingredients?",
+        "ja": "アレルギーがあります。材料を確認していただけますか？",
+        "kana": "アレルギーが あります。ざいりょうを かくにんしていただけますか？",
+        "romaji": "Arerugī ga arimasu. Zairyō o kakunin shite itadakemasu ka?"
+      },
+      {
+        "en": "I have no food allergies.",
+        "ja": "食物アレルギーはありません。",
+        "kana": "しょくもつアレルギーは ありません。",
+        "romaji": "Shokumotsu arerugī wa arimasen."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -3389,7 +4613,27 @@
     "en": "Last order is now.",
     "ja": "ラストオーダーのお時間です。",
     "kana": "ラストオーダーの おじかんです。",
-    "romaji": "Rasuto ōdā no ojikan desu."
+    "romaji": "Rasuto ōdā no ojikan desu.",
+    "replies": [
+      {
+        "en": "Yes, we are ready to order.",
+        "ja": "はい、注文をお願いします。",
+        "kana": "はい、ちゅうもんを おねがいします。",
+        "romaji": "Hai, chūmon o onegai shimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Restaurants & Omakase",
@@ -3397,7 +4641,27 @@
     "en": "Would you like anything else?",
     "ja": "ほかにご注文はございますか？",
     "kana": "ほかに ごちゅうもんは ございますか？",
-    "romaji": "Hoka ni gochūmon wa gozaimasu ka?"
+    "romaji": "Hoka ni gochūmon wa gozaimasu ka?",
+    "replies": [
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Yes, please.",
+        "ja": "はい、お願いします。",
+        "kana": "はい、おねがいします。",
+        "romaji": "Hai, onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Matcha & Cafés",
@@ -3429,7 +4693,27 @@
     "en": "For here or to go?",
     "ja": "店内でお召し上がりですか、お持ち帰りですか？",
     "kana": "てんないで おめしあがりですか、おもちかえりですか？",
-    "romaji": "Tennai de omeshiagari desu ka, omochikaeri desu ka?"
+    "romaji": "Tennai de omeshiagari desu ka, omochikaeri desu ka?",
+    "replies": [
+      {
+        "en": "For here, please.",
+        "ja": "店内でお願いします。",
+        "kana": "てんないで おねがいします。",
+        "romaji": "Tennai de onegai shimasu."
+      },
+      {
+        "en": "Takeaway, please.",
+        "ja": "持ち帰りでお願いします。",
+        "kana": "もちかえりで おねがいします。",
+        "romaji": "Mochikaeri de onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Tsukiji & Street Food",
@@ -3509,7 +4793,27 @@
     "en": "How many items are you trying on?",
     "ja": "ご試着は何点ですか？",
     "kana": "ごしちゃくは なんてんですか？",
-    "romaji": "Goshichaku wa nanten desu ka?"
+    "romaji": "Goshichaku wa nanten desu ka?",
+    "replies": [
+      {
+        "en": "One, please.",
+        "ja": "一つお願いします。",
+        "kana": "ひとつ おねがいします。",
+        "romaji": "Hitotsu onegai shimasu."
+      },
+      {
+        "en": "Two items, please.",
+        "ja": "二点です。",
+        "kana": "にてんです。",
+        "romaji": "Niten desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Clothing & Shoes",
@@ -3517,7 +4821,21 @@
     "en": "The fitting room is over there.",
     "ja": "試着室はあちらです。",
     "kana": "しちゃくしつは あちらです。",
-    "romaji": "Shichakushitsu wa achira desu."
+    "romaji": "Shichakushitsu wa achira desu.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Clothing & Shoes",
@@ -3525,7 +4843,21 @@
     "en": "Hemming will take about one hour.",
     "ja": "裾上げは一時間ほどかかります。",
     "kana": "すそあげは いちじかんほど かかります。",
-    "romaji": "Susoage wa ichijikan hodo kakarimasu."
+    "romaji": "Susoage wa ichijikan hodo kakarimasu.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Clothing & Shoes",
@@ -3533,7 +4865,27 @@
     "en": "This item is sold out.",
     "ja": "こちらは売り切れです。",
     "kana": "こちらは うりきれです。",
-    "romaji": "Kochira wa urikire desu."
+    "romaji": "Kochira wa urikire desu.",
+    "replies": [
+      {
+        "en": "Do you have another one?",
+        "ja": "ほかのものはありますか？",
+        "kana": "ほかのものは ありますか？",
+        "romaji": "Hoka no mono wa arimasu ka?"
+      },
+      {
+        "en": "When will it be available?",
+        "ja": "いつ入荷しますか？",
+        "kana": "いつ にゅうかしますか？",
+        "romaji": "Itsu nyūka shimasu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Skincare & Cosmetics",
@@ -3581,7 +4933,27 @@
     "en": "Would you like to try it?",
     "ja": "お試しになりますか？",
     "kana": "おためしに なりますか？",
-    "romaji": "Otameshi ni narimasu ka?"
+    "romaji": "Otameshi ni narimasu ka?",
+    "replies": [
+      {
+        "en": "Yes, please.",
+        "ja": "はい、お願いします。",
+        "kana": "はい、おねがいします。",
+        "romaji": "Hai, onegai shimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Skincare & Cosmetics",
@@ -3589,7 +4961,21 @@
     "en": "This is a limited-edition product.",
     "ja": "こちらは限定商品です。",
     "kana": "こちらは げんていしょうひんです。",
-    "romaji": "Kochira wa gentei shōhin desu."
+    "romaji": "Kochira wa gentei shōhin desu.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Skincare & Cosmetics",
@@ -3597,7 +4983,27 @@
     "en": "We have no stock at the moment.",
     "ja": "ただいま在庫がございません。",
     "kana": "ただいま ざいこが ございません。",
-    "romaji": "Tadaima zaiko ga gozaimasen."
+    "romaji": "Tadaima zaiko ga gozaimasen.",
+    "replies": [
+      {
+        "en": "Do you have another one?",
+        "ja": "ほかのものはありますか？",
+        "kana": "ほかのものは ありますか？",
+        "romaji": "Hoka no mono wa arimasu ka?"
+      },
+      {
+        "en": "When will it be available?",
+        "ja": "いつ入荷しますか？",
+        "kana": "いつ にゅうかしますか？",
+        "romaji": "Itsu nyūka shimasu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shopping",
@@ -3669,7 +5075,27 @@
     "en": "Do you need a receipt?",
     "ja": "レシートはご利用ですか？",
     "kana": "レシートは ごりようですか？",
-    "romaji": "Reshīto wa goriyō desu ka?"
+    "romaji": "Reshīto wa goriyō desu ka?",
+    "replies": [
+      {
+        "en": "A receipt, please.",
+        "ja": "レシートをお願いします。",
+        "kana": "レシートを おねがいします。",
+        "romaji": "Reshīto o onegai shimasu."
+      },
+      {
+        "en": "No, thank you.",
+        "ja": "いいえ、大丈夫です。",
+        "kana": "いいえ、だいじょうぶです。",
+        "romaji": "Iie, daijōbu desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shopping",
@@ -3677,7 +5103,27 @@
     "en": "Cash or card?",
     "ja": "現金とカード、どちらになさいますか？",
     "kana": "げんきんと カード、どちらに なさいますか？",
-    "romaji": "Genkin to kādo, dochira ni nasaimasu ka?"
+    "romaji": "Genkin to kādo, dochira ni nasaimasu ka?",
+    "replies": [
+      {
+        "en": "Cash, please.",
+        "ja": "現金でお願いします。",
+        "kana": "げんきんで おねがいします。",
+        "romaji": "Genkin de onegai shimasu."
+      },
+      {
+        "en": "By card, please.",
+        "ja": "カードでお願いします。",
+        "kana": "カードで おねがいします。",
+        "romaji": "Kādo de onegai shimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shopping",
@@ -3685,7 +5131,21 @@
     "en": "Please insert your card.",
     "ja": "カードを差し込んでください。",
     "kana": "カードを さしこんでください。",
-    "romaji": "Kādo o sashikonde kudasai."
+    "romaji": "Kādo o sashikonde kudasai.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shopping",
@@ -3693,7 +5153,21 @@
     "en": "Please sign here.",
     "ja": "こちらにサインをお願いします。",
     "kana": "こちらに サインを おねがいします。",
-    "romaji": "Kochira ni sain o onegai shimasu."
+    "romaji": "Kochira ni sain o onegai shimasu.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shopping",
@@ -3701,7 +5175,27 @@
     "en": "We cannot refund to a different card.",
     "ja": "別のカードへの返金はできません。",
     "kana": "べつの カードへの へんきんは できません。",
-    "romaji": "Betsu no kādo e no henkin wa dekimasen."
+    "romaji": "Betsu no kādo e no henkin wa dekimasen.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "How do I do that?",
+        "ja": "どうすればいいですか？",
+        "kana": "どうすれば いいですか？",
+        "romaji": "Dō sureba ii desu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Convenience Stores",
@@ -3773,7 +5267,21 @@
     "en": "May I see your passport?",
     "ja": "パスポートを拝見できますか？",
     "kana": "パスポートを はいけんできますか？",
-    "romaji": "Pasupōto o haiken dekimasu ka?"
+    "romaji": "Pasupōto o haiken dekimasu ka?",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Hotels & Luggage",
@@ -3781,7 +5289,21 @@
     "en": "Breakfast is served from seven.",
     "ja": "朝食は七時からです。",
     "kana": "ちょうしょくは しちじからです。",
-    "romaji": "Chōshoku wa shichiji kara desu."
+    "romaji": "Chōshoku wa shichiji kara desu.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Hotels & Luggage",
@@ -3789,7 +5311,21 @@
     "en": "Check-out is at ten.",
     "ja": "チェックアウトは十時です。",
     "kana": "チェックアウトは じゅうじです。",
-    "romaji": "Chekkuauto wa jūji desu."
+    "romaji": "Chekkuauto wa jūji desu.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shinkansen & Trains",
@@ -3845,7 +5381,21 @@
     "en": "Please show your ticket.",
     "ja": "切符を見せてください。",
     "kana": "きっぷを みせてください。",
-    "romaji": "Kippu o misete kudasai."
+    "romaji": "Kippu o misete kudasai.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shinkansen & Trains",
@@ -3853,7 +5403,21 @@
     "en": "This train does not stop there.",
     "ja": "この電車はそこには止まりません。",
     "kana": "このでんしゃは そこには とまりません。",
-    "romaji": "Kono densha wa soko ni wa tomarimasen."
+    "romaji": "Kono densha wa soko ni wa tomarimasen.",
+    "replies": [
+      {
+        "en": "How do I do that?",
+        "ja": "どうすればいいですか？",
+        "kana": "どうすれば いいですか？",
+        "romaji": "Dō sureba ii desu ka?"
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Shinkansen & Trains",
@@ -3861,7 +5425,21 @@
     "en": "Please change trains at the next station.",
     "ja": "次の駅で乗り換えてください。",
     "kana": "つぎのえきで のりかえてください。",
-    "romaji": "Tsugi no eki de norikaete kudasai."
+    "romaji": "Tsugi no eki de norikaete kudasai.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Directions & Places",
@@ -3893,7 +5471,21 @@
     "en": "Go straight ahead.",
     "ja": "まっすぐ進んでください。",
     "kana": "まっすぐ すすんでください。",
-    "romaji": "Massugu susunde kudasai."
+    "romaji": "Massugu susunde kudasai.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Directions & Places",
@@ -3901,7 +5493,21 @@
     "en": "Turn right at the next corner.",
     "ja": "次の角を右に曲がってください。",
     "kana": "つぎの かどを みぎに まがってください。",
-    "romaji": "Tsugi no kado o migi ni magatte kudasai."
+    "romaji": "Tsugi no kado o migi ni magatte kudasai.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Onsen",
@@ -3917,7 +5523,21 @@
     "en": "Please wash before entering the bath.",
     "ja": "湯船に入る前に体を洗ってください。",
     "kana": "ゆぶねに はいるまえに からだを あらってください。",
-    "romaji": "Yubune ni hairu mae ni karada o aratte kudasai."
+    "romaji": "Yubune ni hairu mae ni karada o aratte kudasai.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Universal Studios Japan",
@@ -3941,7 +5561,21 @@
     "en": "Please wait in this line.",
     "ja": "こちらの列にお並びください。",
     "kana": "こちらの れつに おならびください。",
-    "romaji": "Kochira no retsu ni onarabi kudasai."
+    "romaji": "Kochira no retsu ni onarabi kudasai.",
+    "replies": [
+      {
+        "en": "Understood, thank you.",
+        "ja": "わかりました。ありがとうございます。",
+        "kana": "わかりました。ありがとうございます。",
+        "romaji": "Wakarimashita. Arigatō gozaimasu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Trading Cards",
@@ -3997,7 +5631,27 @@
     "en": "Are you injured?",
     "ja": "けがをしていますか？",
     "kana": "けがを していますか？",
-    "romaji": "Kega o shite imasu ka?"
+    "romaji": "Kega o shite imasu ka?",
+    "replies": [
+      {
+        "en": "Yes, I am injured.",
+        "ja": "はい、けがをしています。",
+        "kana": "はい、けがを しています。",
+        "romaji": "Hai, kega o shite imasu."
+      },
+      {
+        "en": "No, I am not injured.",
+        "ja": "いいえ、けがはしていません。",
+        "kana": "いいえ、けがは していません。",
+        "romaji": "Iie, kega wa shite imasen."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
   },
   {
     "category": "Quick Help",
@@ -4005,6 +5659,784 @@
     "en": "Where does it hurt?",
     "ja": "どこが痛いですか？",
     "kana": "どこが いたいですか？",
-    "romaji": "Doko ga itai desu ka?"
+    "romaji": "Doko ga itai desu ka?",
+    "replies": [
+      {
+        "en": "My stomach hurts.",
+        "ja": "お腹が痛いです。",
+        "kana": "おなかが いたいです。",
+        "romaji": "Onaka ga itai desu."
+      },
+      {
+        "en": "Please help me.",
+        "ja": "助けてください。",
+        "kana": "たすけてください。",
+        "romaji": "Tasukete kudasai."
+      },
+      {
+        "en": "My head hurts.",
+        "ja": "頭が痛いです。",
+        "kana": "あたまが いたいです。",
+        "romaji": "Atama ga itai desu."
+      },
+      {
+        "en": "Could you say that again, please?",
+        "ja": "もう一度お願いします。",
+        "kana": "もういちど おねがいします。",
+        "romaji": "Mō ichido onegai shimasu."
+      }
+    ]
+  },
+  {
+    "category": "Quick Help",
+    "en": "Where is the toilet?",
+    "ja": "トイレはどこですか？",
+    "kana": "といれはどこですか？",
+    "romaji": "Toire wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Excuse me, where is the toilet?",
+    "ja": "すみません、トイレはどこですか？",
+    "kana": "すみません、といれはどこですか？",
+    "romaji": "Sumimasen, toire wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Is there a toilet nearby?",
+    "ja": "近くにトイレはありますか？",
+    "kana": "ちかくにといれはありますか？",
+    "romaji": "Chikaku ni toire wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "May I use the toilet?",
+    "ja": "トイレを使ってもいいですか？",
+    "kana": "といれをつかってもいいですか？",
+    "romaji": "Toire o tsukatte mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Where is the nearest restroom?",
+    "ja": "一番近いお手洗いはどこですか？",
+    "kana": "いちばんちかいおてあらいはどこですか？",
+    "romaji": "Ichiban chikai otearai wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Where can I wash my hands?",
+    "ja": "手を洗える場所はどこですか？",
+    "kana": "てをあらえるばしょはどこですか？",
+    "romaji": "Te o araeru basho wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Please help me.",
+    "ja": "助けてください。",
+    "kana": "たすけてください。",
+    "romaji": "Tasukete kudasai.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I need help.",
+    "ja": "助けが必要です。",
+    "kana": "たすけがひつようです。",
+    "romaji": "Tasuke ga hitsuyō desu.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I am lost.",
+    "ja": "道に迷いました。",
+    "kana": "みちにまよいました。",
+    "romaji": "Michi ni mayoimashita.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I do not speak Japanese well.",
+    "ja": "日本語があまり話せません。",
+    "kana": "にほんごがあまりはなせません。",
+    "romaji": "Nihongo ga amari hanasemasen.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Do you speak English?",
+    "ja": "英語を話せますか？",
+    "kana": "えいごをはなせますか？",
+    "romaji": "Eigo o hanasemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Could you speak slowly?",
+    "ja": "ゆっくり話していただけますか？",
+    "kana": "ゆっくりはなしていただけますか？",
+    "romaji": "Yukkuri hanashite itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Could you write it down?",
+    "ja": "書いていただけますか？",
+    "kana": "かいていただけますか？",
+    "romaji": "Kaite itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Could you show me on the map?",
+    "ja": "地図で教えていただけますか？",
+    "kana": "ちずでおしえていただけますか？",
+    "romaji": "Chizu de oshiete itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Could you take our photo?",
+    "ja": "写真を撮っていただけますか？",
+    "kana": "しゃしんをとっていただけますか？",
+    "romaji": "Shashin o totte itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Is there free Wi-Fi?",
+    "ja": "無料のWi-Fiはありますか？",
+    "kana": "むりょうのわいふぁいはありますか？",
+    "romaji": "Muryō no waifai wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "May I charge my phone here?",
+    "ja": "ここで携帯を充電してもいいですか？",
+    "kana": "ここでけいたいをじゅうでんしてもいいですか？",
+    "romaji": "Koko de keitai o jūden shite mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Where is the rubbish bin?",
+    "ja": "ゴミ箱はどこですか？",
+    "kana": "ごみばこはどこですか？",
+    "romaji": "Gomibako wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Is this allowed?",
+    "ja": "これは大丈夫ですか？",
+    "kana": "これはだいじょうぶですか？",
+    "romaji": "Kore wa daijōbu desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Is it okay to enter?",
+    "ja": "入ってもいいですか？",
+    "kana": "はいってもいいですか？",
+    "romaji": "Haitte mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Please wait a moment.",
+    "ja": "少し待ってください。",
+    "kana": "すこしまってください。",
+    "romaji": "Sukoshi matte kudasai.",
+    "type": "say"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "How do I get to the station?",
+    "ja": "駅へはどう行けばいいですか？",
+    "kana": "えきへはどういけばいいですか？",
+    "romaji": "Eki e wa dō ikeba ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Which way is the station?",
+    "ja": "駅はどちらですか？",
+    "kana": "えきはどちらですか？",
+    "romaji": "Eki wa dochira desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "How many minutes on foot?",
+    "ja": "歩いて何分ですか？",
+    "kana": "あるいてなんぷんですか？",
+    "romaji": "Aruite nanpun desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Directions & Places",
+    "en": "Is this the right way?",
+    "ja": "この道で合っていますか？",
+    "kana": "このみちであっていますか？",
+    "romaji": "Kono michi de atte imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Which platform should I use?",
+    "ja": "何番ホームですか？",
+    "kana": "なんばんほーむですか？",
+    "romaji": "Nanban hōmu desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Does this train go to this station?",
+    "ja": "この電車はこの駅に行きますか？",
+    "kana": "このでんしゃはこのえきにいきますか？",
+    "romaji": "Kono densha wa kono eki ni ikimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Where can I buy a ticket?",
+    "ja": "切符はどこで買えますか？",
+    "kana": "きっぷはどこでかえますか？",
+    "romaji": "Kippu wa doko de kaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Where can I recharge my IC card?",
+    "ja": "ICカードはどこでチャージできますか？",
+    "kana": "あいしーかーどはどこでちゃーじできますか？",
+    "romaji": "Ai shī kādo wa doko de chāji dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "I missed my train.",
+    "ja": "電車に乗り遅れました。",
+    "kana": "でんしゃにのりおくれました。",
+    "romaji": "Densha ni noriokuremashita.",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Please take me to this address.",
+    "ja": "この住所までお願いします。",
+    "kana": "このじゅうしょまでおねがいします。",
+    "romaji": "Kono jūsho made onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "A table for two, please.",
+    "ja": "二人です。",
+    "kana": "ふたりです。",
+    "romaji": "Futari desu.",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Can we order now?",
+    "ja": "注文してもいいですか？",
+    "kana": "ちゅうもんしてもいいですか？",
+    "romaji": "Chūmon shite mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Could we have some water?",
+    "ja": "お水をいただけますか？",
+    "kana": "おみずをいただけますか？",
+    "romaji": "Omizu o itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Could we have the bill, please?",
+    "ja": "お会計をお願いします。",
+    "kana": "おかいけいをおねがいします。",
+    "romaji": "Okaikei o onegaishimasu.",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Can we pay separately?",
+    "ja": "別々に払えますか？",
+    "kana": "べつべつにはらえますか？",
+    "romaji": "Betsubetsu ni haraemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Restaurants & Omakase",
+    "en": "Can I take this to go?",
+    "ja": "持ち帰りできますか？",
+    "kana": "もちかえりできますか？",
+    "romaji": "Mochikaeri dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Does this contain nuts?",
+    "ja": "これにはナッツが入っていますか？",
+    "kana": "これにはなっつがはいっていますか？",
+    "romaji": "Kore ni wa nattsu ga haitte imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Does this contain milk or dairy?",
+    "ja": "これには乳製品が入っていますか？",
+    "kana": "これにはにゅうせいひんがはいっていますか？",
+    "romaji": "Kore ni wa nyūseihin ga haitte imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Does this contain pork?",
+    "ja": "これには豚肉が入っていますか？",
+    "kana": "これにはぶたにくがはいっていますか？",
+    "romaji": "Kore ni wa butaniku ga haitte imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Can I pay in cash?",
+    "ja": "現金で払えますか？",
+    "kana": "げんきんではらえますか？",
+    "romaji": "Genkin de haraemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Do you have another size?",
+    "ja": "別のサイズはありますか？",
+    "kana": "べつのさいずはありますか？",
+    "romaji": "Betsu no saizu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Do you have another colour?",
+    "ja": "別の色はありますか？",
+    "kana": "べつのいろはありますか？",
+    "romaji": "Betsu no iro wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "May I try this on?",
+    "ja": "試着してもいいですか？",
+    "kana": "しちゃくしてもいいですか？",
+    "romaji": "Shichaku shite mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Where is the fitting room?",
+    "ja": "試着室はどこですか？",
+    "kana": "しちゃくしつはどこですか？",
+    "romaji": "Shichakushitsu wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Is this tax-free?",
+    "ja": "これは免税になりますか？",
+    "kana": "これはめんぜいになりますか？",
+    "romaji": "Kore wa menzei ni narimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "I have a reservation.",
+    "ja": "予約しています。",
+    "kana": "よやくしています。",
+    "romaji": "Yoyaku shite imasu.",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Can we leave our luggage here?",
+    "ja": "荷物を預けてもいいですか？",
+    "kana": "にもつをあずけてもいいですか？",
+    "romaji": "Nimotsu o azukete mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "What time is check-out?",
+    "ja": "チェックアウトは何時ですか？",
+    "kana": "ちぇっくあうとはなんじですか？",
+    "romaji": "Chekkuauto wa nanji desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "The room key is not working.",
+    "ja": "部屋の鍵が使えません。",
+    "kana": "へやのかぎがつかえません。",
+    "romaji": "Heya no kagi ga tsukaemasen.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Please call an ambulance.",
+    "ja": "救急車を呼んでください。",
+    "kana": "きゅうきゅうしゃをよんでください。",
+    "romaji": "Kyūkyūsha o yonde kudasai.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Please call the police.",
+    "ja": "警察を呼んでください。",
+    "kana": "けいさつをよんでください。",
+    "romaji": "Keisatsu o yonde kudasai.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I need a doctor.",
+    "ja": "医者が必要です。",
+    "kana": "いしゃがひつようです。",
+    "romaji": "Isha ga hitsuyō desu.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Where is the nearest hospital?",
+    "ja": "一番近い病院はどこですか？",
+    "kana": "いちばんちかいびょういんはどこですか？",
+    "romaji": "Ichiban chikai byōin wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Where is a pharmacy?",
+    "ja": "薬局はどこですか？",
+    "kana": "やっきょくはどこですか？",
+    "romaji": "Yakkyoku wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "My phone is missing.",
+    "ja": "携帯電話をなくしました。",
+    "kana": "けいたいでんわをなくしました。",
+    "romaji": "Keitai denwa o nakushimashita.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I feel unwell.",
+    "ja": "気分が悪いです。",
+    "kana": "きぶんがわるいです。",
+    "romaji": "Kibun ga warui desu.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I am injured.",
+    "ja": "けがをしました。",
+    "kana": "けがをしました。",
+    "romaji": "Kega o shimashita.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "I need a place to sit.",
+    "ja": "座れる場所はありますか？",
+    "kana": "すわれるばしょはありますか？",
+    "romaji": "Suwareru basho wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Where is the Pokémon Center?",
+    "ja": "ポケモンセンターはどこですか？",
+    "kana": "ぽけもんせんたーは どこですか？",
+    "romaji": "Pokemon Sentā wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Is there a Pokémon Center nearby?",
+    "ja": "近くにポケモンセンターはありますか？",
+    "kana": "ちかくに ぽけもんせんたーは ありますか？",
+    "romaji": "Chikaku ni Pokemon Sentā wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "I am looking for Pokémon cards.",
+    "ja": "ポケモンカードを探しています。",
+    "kana": "ぽけもんかーどを さがしています。",
+    "romaji": "Pokemon kādo o sagashite imasu.",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you sell Pokémon cards?",
+    "ja": "ポケモンカードは売っていますか？",
+    "kana": "ぽけもんかーどは うっていますか？",
+    "romaji": "Pokemon kādo wa utte imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have Pokémon card booster packs?",
+    "ja": "ポケモンカードの拡張パックはありますか？",
+    "kana": "ぽけもんかーどの かくちょうぱっくは ありますか？",
+    "romaji": "Pokemon kādo no kakuchō pakku wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have Pokémon card booster boxes?",
+    "ja": "ポケモンカードのボックスはありますか？",
+    "kana": "ぽけもんかーどの ぼっくすは ありますか？",
+    "romaji": "Pokemon kādo no bokkusu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have starter decks?",
+    "ja": "スターターデッキはありますか？",
+    "kana": "すたーたーでっきは ありますか？",
+    "romaji": "Sutātā dekki wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have any Pokémon card packs in stock?",
+    "ja": "ポケモンカードのパックは在庫がありますか？",
+    "kana": "ぽけもんかーどの ぱっくは ざいこが ありますか？",
+    "romaji": "Pokemon kādo no pakku wa zaiko ga arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "When will the Pokémon cards be restocked?",
+    "ja": "ポケモンカードはいつ再入荷しますか？",
+    "kana": "ぽけもんかーどは いつ さいにゅうかしますか？",
+    "romaji": "Pokemon kādo wa itsu sainyūka shimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Is there a purchase limit per person?",
+    "ja": "一人何点まで買えますか？",
+    "kana": "ひとり なんてんまで かえますか？",
+    "romaji": "Hitori nanten made kaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Can I buy one box?",
+    "ja": "一箱買えますか？",
+    "kana": "ひとはこ かえますか？",
+    "romaji": "Hitohako kaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Can I buy two packs?",
+    "ja": "二パック買えますか？",
+    "kana": "にぱっく かえますか？",
+    "romaji": "Ni pakku kaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Are these packs sold individually?",
+    "ja": "このパックは一つずつ買えますか？",
+    "kana": "この ぱっくは ひとつずつ かえますか？",
+    "romaji": "Kono pakku wa hitotsu zutsu kaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Are there any new Pokémon card releases?",
+    "ja": "新発売のポケモンカードはありますか？",
+    "kana": "しんはつばいの ぽけもんかーどは ありますか？",
+    "romaji": "Shinhatsubai no Pokemon kādo wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Are these Pokémon cards Japanese-language cards?",
+    "ja": "これは日本語版のポケモンカードですか？",
+    "kana": "これは にほんごばんの ぽけもんかーどですか？",
+    "romaji": "Kore wa nihongoban no Pokemon kādo desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have card sleeves?",
+    "ja": "カードスリーブはありますか？",
+    "kana": "かーどすりーぶは ありますか？",
+    "romaji": "Kādo surību wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have card binders?",
+    "ja": "カードファイルはありますか？",
+    "kana": "かーどふぁいるは ありますか？",
+    "romaji": "Kādo fairu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have Pokémon plushies?",
+    "ja": "ポケモンのぬいぐるみはありますか？",
+    "kana": "ぽけもんの ぬいぐるみは ありますか？",
+    "romaji": "Pokemon no nuigurumi wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Where are the Pokémon plushies?",
+    "ja": "ポケモンのぬいぐるみ売り場はどこですか？",
+    "kana": "ぽけもんの ぬいぐるみうりばは どこですか？",
+    "romaji": "Pokemon no nuigurumi uriba wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "I am looking for a Pikachu plushie.",
+    "ja": "ピカチュウのぬいぐるみを探しています。",
+    "kana": "ぴかちゅうの ぬいぐるみを さがしています。",
+    "romaji": "Pikachū no nuigurumi o sagashite imasu.",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have this Pokémon as a plushie?",
+    "ja": "このポケモンのぬいぐるみはありますか？",
+    "kana": "この ぽけもんの ぬいぐるみは ありますか？",
+    "romaji": "Kono Pokemon no nuigurumi wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have a smaller size?",
+    "ja": "もっと小さいサイズはありますか？",
+    "kana": "もっと ちいさい さいずは ありますか？",
+    "romaji": "Motto chiisai saizu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have a larger size?",
+    "ja": "もっと大きいサイズはありますか？",
+    "kana": "もっと おおきい さいずは ありますか？",
+    "romaji": "Motto ōkii saizu wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do you have another one in stock?",
+    "ja": "同じものの在庫はまだありますか？",
+    "kana": "おなじものの ざいこは まだ ありますか？",
+    "romaji": "Onaji mono no zaiko wa mada arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Is this Pokémon Center exclusive?",
+    "ja": "これはポケモンセンター限定ですか？",
+    "kana": "これは ぽけもんせんたー げんていですか？",
+    "romaji": "Kore wa Pokemon Sentā gentei desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Is this item limited edition?",
+    "ja": "これは限定商品ですか？",
+    "kana": "これは げんていしょうひんですか？",
+    "romaji": "Kore wa gentei shōhin desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Can you show me where this item is?",
+    "ja": "この商品がどこにあるか教えていただけますか？",
+    "kana": "この しょうひんが どこに あるか おしえていただけますか？",
+    "romaji": "Kono shōhin ga doko ni aru ka oshiete itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Can I see this item up close?",
+    "ja": "これを近くで見てもいいですか？",
+    "kana": "これを ちかくで みても いいですか？",
+    "romaji": "Kore o chikaku de mite mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Can I take a photo of this display?",
+    "ja": "このディスプレイの写真を撮ってもいいですか？",
+    "kana": "この でぃすぷれいの しゃしんを とっても いいですか？",
+    "romaji": "Kono disupurei no shashin o totte mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Do I need a numbered ticket to buy this?",
+    "ja": "これを買うには整理券が必要ですか？",
+    "kana": "これを かうには せいりけんが ひつようですか？",
+    "romaji": "Kore o kau ni wa seiriken ga hitsuyō desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Is there a lottery to purchase this item?",
+    "ja": "この商品は抽選販売ですか？",
+    "kana": "この しょうひんは ちゅうせんはんばいですか？",
+    "romaji": "Kono shōhin wa chūsen hanbai desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Can I pay by credit card?",
+    "ja": "クレジットカードで払えますか？",
+    "kana": "くれじっとかーどで はらえますか？",
+    "romaji": "Kurejitto kādo de haraemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Could you put this in a bag, please?",
+    "ja": "袋に入れていただけますか？",
+    "kana": "ふくろに いれていただけますか？",
+    "romaji": "Fukuro ni irete itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Could you please wrap this as a gift?",
+    "ja": "プレゼント用にラッピングしていただけますか？",
+    "kana": "ぷれぜんとように らっぴんぐしていただけますか？",
+    "romaji": "Purezento-yō ni rappingu shite itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Pokémon Center & Cards",
+    "en": "Can I get a tax-free purchase here?",
+    "ja": "こちらは免税に対応していますか？",
+    "kana": "こちらは めんぜいに たいおうしていますか？",
+    "romaji": "Kochira wa menzei ni taiō shite imasu ka?",
+    "type": "say"
   }
 ]

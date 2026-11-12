@@ -1,6 +1,6 @@
 
 'use strict';
-const CATS={'Essentials':'🙏','Food & Drinks':'🍵','Shopping':'🛍️','Transport':'🚅','Hotels & Luggage':'🧳','Activities':'🎢','Quick Help':'🆘','Signs & Vocabulary':'🪧','Numbers & Time':'🕒','Clothing & Shoes':'👗','Convenience Stores':'🏪','Restaurants & Omakase':'🍣','Matcha & Cafés':'🍵','Matcha Shopping':'🍃','Tsukiji & Street Food':'🍢','Trading Cards':'🃏','Skincare & Cosmetics':'🧴','Beauty Electronics':'💨','Onsen':'♨️','Universal Studios Japan':'🎢','Shinkansen & Trains':'🚄','Directions & Places':'🗺️'};
+const CATS={'Essentials':'🙏','Food & Drinks':'🍵','Shopping':'🛍️','Transport':'🚅','Hotels & Luggage':'🧳','Activities':'🎢','Quick Help':'🆘','Signs & Vocabulary':'🪧','Numbers & Time':'🕒','Clothing & Shoes':'👗','Convenience Stores':'🏪','Restaurants & Omakase':'🍣','Matcha & Cafés':'🍵','Matcha Shopping':'🍃','Tsukiji & Street Food':'🍢','Trading Cards':'🃏','Pokémon Center & Cards':'⚡','Skincare & Cosmetics':'🧴','Beauty Electronics':'💨','Onsen':'♨️','Universal Studios Japan':'🎢','Shinkansen & Trains':'🚄','Directions & Places':'🗺️'};
 let phrases=[],page='home',selectedCategory='',search='',studyCat='Essentials',studyIndex=0,studyRevealed=false,studyDirection='en',studyShowKana=true,studyOrder=[],currentOverlay=null;
 const $=s=>document.querySelector(s), app=$('#app');
 function safe(t){return String(t??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
