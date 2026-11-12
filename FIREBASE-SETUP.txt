@@ -1,0 +1,18 @@
+PandaBaboy V3.7 Cloud Sync Preview — SETUP REQUIRED
+
+1. Export a full V3.6 backup on BOTH phones and save copies somewhere safe.
+2. Go to https://console.firebase.google.com/ and create a Firebase project (e.g. pandababoy-couple).
+3. Under Build > Authentication > Get started > Sign-in method, enable Email/Password.
+4. Authentication > Users > Add user: create ONE shared email/password account for K and J. Do not share the password with ChatGPT or put it in GitHub.
+5. Build > Firestore Database > Create database. Choose a region. Start in production mode.
+6. In Firestore > Rules, replace the rules with FIRESTORE-RULES.txt and publish.
+7. Project settings (gear icon) > General > Your apps > Add app > Web (</>) > Register app. Copy the firebaseConfig object values into firebase-config.js. Web config is public, but passwords/private keys are NOT.
+8. In Authentication > Settings > Authorized domains, make sure panda-baboy.github.io is allowed. Add it if missing.
+9. Upload all site files (not the ZIP itself) to GitHub Pages repository root and commit.
+10. Open the deployed app online on K's phone. Export backup again if necessary, sign in, then select Start / merge this phone into cloud.
+11. Open on J's phone, export backup, sign in, then choose Start / merge this phone into cloud to combine purchases/wishlist/favourites/packing; DO NOT choose Use cloud data unless you want to replace local data.
+12. Refresh both phones. Make a test purchase and verify it appears on the other phone. If it does not, STOP and retain your backups.
+
+IMPORTANT: This is an untested preview scaffold, NOT a verified live-sync release. It cannot connect until the Firebase project is configured. Do not rely on it as the only copy of trip data. The sync merge is NOT conflict-free: concurrent edits/deletions and outfits can conflict. Existing storage remains local until explicit sync initialization. Some saved fields are synced as a whole trip snapshot; one phone may overwrite another phone's recent changes in a conflict. Test before travel.
+
+Firebase's free Spark tier may be sufficient for two users but quotas and billing terms are subject to Firebase's current policies.
