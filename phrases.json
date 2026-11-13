@@ -6438,5 +6438,197 @@
     "kana": "こちらは めんぜいに たいおうしていますか？",
     "romaji": "Kochira wa menzei ni taiō shite imasu ka?",
     "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Could you explain the tax-refund procedure?",
+    "ja": "免税の払い戻し手続きを教えていただけますか？",
+    "kana": "めんぜいの はらいもどし てつづきを おしえて いただけますか？",
+    "romaji": "Menzei no haraimodoshi tetsuzuki o oshiete itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "How and when will I receive the tax refund?",
+    "ja": "免税の払い戻しはいつ、どのように受け取れますか？",
+    "kana": "めんぜいの はらいもどしは いつ、どのように うけとれますか？",
+    "romaji": "Menzei no haraimodoshi wa itsu, dono yō ni uketoremasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Could you help me register the refund method?",
+    "ja": "払い戻し方法の登録を手伝っていただけますか？",
+    "kana": "はらいもどし ほうほうの とうろくを てつだって いただけますか？",
+    "romaji": "Haraimodoshi hōhō no tōroku o tetsudatte itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Can I reserve this and collect it later?",
+    "ja": "これを取り置きして、後で受け取れますか？",
+    "kana": "これを とりおきして、あとで うけとれますか？",
+    "romaji": "Kore o torioki shite, ato de uketoremasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Can we have seats next to each other?",
+    "ja": "隣同士の席にできますか？",
+    "kana": "となりどうしの せきに できますか？",
+    "romaji": "Tonari-dōshi no seki ni dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shinkansen & Trains",
+    "en": "Does this train require a seat reservation?",
+    "ja": "この電車は座席の予約が必要ですか？",
+    "kana": "この でんしゃは ざせきの よやくが ひつようですか？",
+    "romaji": "Kono densha wa zaseki no yoyaku ga hitsuyō desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Where is the lost-property counter?",
+    "ja": "忘れ物の窓口はどこですか？",
+    "kana": "わすれものの まどぐちは どこですか？",
+    "romaji": "Wasuremono no madoguchi wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Could you help me contact our hotel?",
+    "ja": "宿泊先のホテルに連絡するのを手伝っていただけますか？",
+    "kana": "しゅくはくさきの ホテルに れんらくするのを てつだって いただけますか？",
+    "romaji": "Shukuhakusaki no hoteru ni renraku suru no o tetsudatte itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Hotels & Luggage",
+    "en": "Could you show me how to get to this hotel?",
+    "ja": "このホテルへの行き方を教えていただけますか？",
+    "kana": "この ホテルへの いきかたを おしえて いただけますか？",
+    "romaji": "Kono hoteru e no ikikata o oshiete itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Is there an English-speaking doctor?",
+    "ja": "英語が話せるお医者さんはいますか？",
+    "kana": "えいごが はなせる おいしゃさんは いますか？",
+    "romaji": "Eigo ga hanaseru oisha-san wa imasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Could you call an English-speaking doctor?",
+    "ja": "英語が話せるお医者さんを呼んでいただけますか？",
+    "kana": "えいごが はなせる おいしゃさんを よんで いただけますか？",
+    "romaji": "Eigo ga hanaseru oisha-san o yonde itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "My phone has run out of battery.",
+    "ja": "携帯電話の充電が切れました。",
+    "kana": "けいたいでんわの じゅうでんが きれました。",
+    "romaji": "Keitai denwa no jūden ga kiremashita.",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Could I charge my phone here?",
+    "ja": "ここで携帯電話を充電してもいいですか？",
+    "kana": "ここで けいたいでんわを じゅうでんしても いいですか？",
+    "romaji": "Koko de keitai denwa o jūden shite mo ii desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "I cannot eat raw fish.",
+    "ja": "生魚は食べられません。",
+    "kana": "なまざかなは たべられません。",
+    "romaji": "Namazakana wa taberaremasen.",
+    "type": "say"
+  },
+  {
+    "category": "Food & Drinks",
+    "en": "Could you make it without this ingredient?",
+    "ja": "この食材を抜いて作っていただけますか？",
+    "kana": "この しょくざいを ぬいて つくって いただけますか？",
+    "romaji": "Kono shokuzai o nuite tsukutte itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Activities",
+    "en": "Can we leave and come back in?",
+    "ja": "一度外に出て、再入場できますか？",
+    "kana": "いちど そとに でて、さいにゅうじょう できますか？",
+    "romaji": "Ichido soto ni dete, sainyūjō dekimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Activities",
+    "en": "Is there an English guide or information?",
+    "ja": "英語の案内はありますか？",
+    "kana": "えいごの あんないは ありますか？",
+    "romaji": "Eigo no annai wa arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Can I take this in my carry-on luggage?",
+    "ja": "これは機内持ち込み手荷物に入れられますか？",
+    "kana": "これは きない もちこみ てにもつに いれられますか？",
+    "romaji": "Kore wa kinai mochikomi tenimotsu ni ireraremasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Where is the customs tax-refund procedure kiosk?",
+    "ja": "免税手続きの端末はどこですか？",
+    "kana": "めんぜい てつづきの たんまつは どこですか？",
+    "romaji": "Menzei tetsuzuki no tanmatsu wa doko desu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Transport",
+    "en": "Do I need to show these purchases before checking my bag?",
+    "ja": "荷物を預ける前に、この商品を見せる必要がありますか？",
+    "kana": "にもつを あずける まえに、この しょうひんを みせる ひつようが ありますか？",
+    "romaji": "Nimotsu o azukeru mae ni, kono shōhin o miseru hitsuyō ga arimasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Is there a limit on how many I can buy?",
+    "ja": "一人何個まで買えますか？",
+    "kana": "ひとり なんこまで かえますか？",
+    "romaji": "Hitori nanko made kaemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Could you write that down, please?",
+    "ja": "書いていただけますか？",
+    "kana": "かいて いただけますか？",
+    "romaji": "Kaite itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Quick Help",
+    "en": "Could you point to it on the map?",
+    "ja": "地図で指さしていただけますか？",
+    "kana": "ちずで ゆびさして いただけますか？",
+    "romaji": "Chizu de yubisashite itadakemasu ka?",
+    "type": "say"
+  },
+  {
+    "category": "Shopping",
+    "en": "Could you hold this item for me for a short time?",
+    "ja": "この商品を少しの間取り置きしていただけますか？",
+    "kana": "この しょうひんを すこしの あいだ とりおきして いただけますか？",
+    "romaji": "Kono shōhin o sukoshi no aida torioki shite itadakemasu ka?",
+    "type": "say"
   }
 ]
